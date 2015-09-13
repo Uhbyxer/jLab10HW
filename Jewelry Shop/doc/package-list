@@ -1,0 +1,9 @@
+com.epam.tgrynchuk.jewelry
+com.epam.tgrynchuk.jewelry.exceptions
+com.epam.tgrynchuk.jewelry.mvc.engine
+com.epam.tgrynchuk.jewelry.mvc.engine.menus
+com.epam.tgrynchuk.jewelry.mvc.engine.menus.items
+com.epam.tgrynchuk.jewelry.mvc.models
+com.epam.tgrynchuk.jewelry.mvc.models.enums
+com.epam.tgrynchuk.jewelry.mvc.ui
+com.epam.tgrynchuk.jewelry.utils

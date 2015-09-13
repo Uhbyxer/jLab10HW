@@ -1,0 +1,299 @@
+2015-03-25 10:55:27,736 [INFO ][main            ][tgrynchuk.jewelry.EntryPoint] - Starts......
+2015-03-25 10:55:27,755 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.JewelryController] - try openListOfStonesToFile
+2015-03-25 10:55:27,827 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.JewelryController] - try openListOfClientsToFile
+2015-03-25 10:55:27,838 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.JewelryController] - start()-->
+2015-03-25 10:55:42,500 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.menus.items.StonesAddNewItem] - getListOfStones().add # 8. Сапфiр/ Коштовний, I порядку/ Ціна, $: 23.0/ Карат: 23.0/ Блакитний/ тверд. шк. Мооса: 9/ блиск: Скляний/ Напівпрозорий/ сингонія: Тригональна/ інд. залом.: 1.778
+2015-03-25 10:55:42,503 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.menus.items.StonesAddNewItem] - saveListOfStonesToFile
+2015-03-25 10:56:05,567 [INFO ][main            ][tgrynchuk.jewelry.EntryPoint] - Starts......
+2015-03-25 10:56:05,583 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.JewelryController] - try openListOfStonesToFile
+2015-03-25 10:56:05,646 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.JewelryController] - try openListOfClientsToFile
+2015-03-25 10:56:05,664 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.JewelryController] - start()-->
+2015-03-25 10:57:05,782 [INFO ][main            ][tgrynchuk.jewelry.EntryPoint] - Starts......
+2015-03-25 10:57:05,792 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.JewelryController] - try openListOfStonesToFile
+2015-03-25 10:57:05,842 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.JewelryController] - try openListOfClientsToFile
+2015-03-25 10:57:05,847 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.JewelryController] - start()-->
+2015-03-25 11:17:47,711 [INFO ][main            ][tgrynchuk.jewelry.EntryPoint] - Starts......
+2015-03-25 11:17:47,711 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.JewelryController] - try openListOfStonesToFile
+2015-03-25 11:17:47,772 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.JewelryController] - try openListOfClientsToFile
+2015-03-25 11:17:47,777 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.JewelryController] - start()-->
+2015-03-25 11:18:28,325 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.menus.items.QuitProgtramItem] - QuitProgtramItem.execute()
+2015-03-25 11:21:31,785 [INFO ][main            ][tgrynchuk.jewelry.EntryPoint] - Starts......
+2015-03-25 11:21:31,801 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.JewelryController] - try openListOfStonesToFile
+2015-03-25 11:21:31,801 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.JewelryController] - try openListOfClientsToFile
+2015-03-25 11:21:31,816 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.JewelryController] - start()-->
+2015-03-25 11:22:19,388 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.menus.items.StonesAddNewItem] - getListOfStones().add # 0. Агат/ Напівкоштовний, II порядку/ Ціна, $: 450.0/ Карат: 2.0/ Сiрий/ тверд. шк. Мооса: 6/ блиск: Восковий/ Просвічуючий по краях/ сингонія: Тригональна/ інд. залом.: 1.202
+2015-03-25 11:22:19,388 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.menus.items.StonesAddNewItem] - saveListOfStonesToFile
+2015-03-25 11:22:37,392 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.menus.items.StonesAddNewItem] - getListOfStones().add # 1. Берил/ Коштовний, III порядку/ Ціна, $: 300.0/ Карат: 4.0/ Блідо-жовтий/ тверд. шк. Мооса: 7/ блиск: Матовий/ Просвічуючий по краях/ сингонія: Кубічна/ інд. залом.: 1.568
+2015-03-25 11:22:37,408 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.menus.items.StonesAddNewItem] - saveListOfStonesToFile
+2015-03-25 11:23:11,789 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.menus.items.StonesAddNewItem] - getListOfStones().add # 2. Алмаз/ Коштовний, I порядку/ Ціна, $: 2800.0/ Карат: 1.0/ Безбарвний/ тверд. шк. Мооса: 8/ блиск: Алмазний/ Прозорий/ сингонія: Кубічна/ інд. залом.: 2.402
+2015-03-25 11:23:11,789 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.menus.items.StonesAddNewItem] - saveListOfStonesToFile
+2015-03-25 11:23:36,732 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.menus.items.StonesAddNewItem] - getListOfStones().add # 3. Смарагд/ Коштовний, I порядку/ Ціна, $: 399.0/ Карат: 3.0/ Зелений/ тверд. шк. Мооса: 8/ блиск: Скляний/ Напівпрозорий/ сингонія: Тригональна/ інд. залом.: 1.576
+2015-03-25 11:23:36,732 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.menus.items.StonesAddNewItem] - saveListOfStonesToFile
+2015-03-25 11:23:59,241 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.menus.items.StonesAddNewItem] - getListOfStones().add # 4. Рубiн/ Коштовний, I порядку/ Ціна, $: 288.0/ Карат: 4.0/ Червоний/ тверд. шк. Мооса: 9/ блиск: Скляний/ Напівпрозорий/ сингонія: Тригональна/ інд. залом.: 1.762
+2015-03-25 11:23:59,241 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.menus.items.StonesAddNewItem] - saveListOfStonesToFile
+2015-03-25 11:24:11,767 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.menus.items.StonesAddNewItem] - getListOfStones().add # 5. Сапфiр/ Коштовний, I порядку/ Ціна, $: 100.0/ Карат: 2.0/ Блакитний/ тверд. шк. Мооса: 9/ блиск: Скляний/ Напівпрозорий/ сингонія: Тригональна/ інд. залом.: 1.778
+2015-03-25 11:24:11,780 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.menus.items.StonesAddNewItem] - saveListOfStonesToFile
+2015-03-25 11:24:26,391 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.menus.items.StonesAddNewItem] - getListOfStones().add # 6. Шпiнель/ Коштовний, II порядку/ Ціна, $: 150.0/ Карат: 3.0/ Безбарвний/ тверд. шк. Мооса: 7/ блиск: Скляний/ Просвічуючий по краях/ сингонія: Кубічна/ інд. залом.: 1.775
+2015-03-25 11:24:26,393 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.menus.items.StonesAddNewItem] - saveListOfStonesToFile
+2015-03-25 11:24:48,180 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.menus.items.StonesAddNewItem] - getListOfStones().add # 7. Топаз/ Коштовний, I порядку/ Ціна, $: 379.0/ Карат: 3.0/ Блакитний/ тверд. шк. Мооса: 7/ блиск: Скляний/ Напівпрозорий/ сингонія: Гексагональна/ інд. залом.: 1.384
+2015-03-25 11:24:48,180 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.menus.items.StonesAddNewItem] - saveListOfStonesToFile
+2015-03-25 11:25:03,595 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.menus.items.StonesAddNewItem] - getListOfStones().add # 8. Бiрюза/ Напівкоштовний, I порядку/ Ціна, $: 459.0/ Карат: 5.0/ Зелений/ тверд. шк. Мооса: 5/ блиск: Восковий/ Непрозорий/ сингонія: Триклінна/ інд. залом.: 0.0
+2015-03-25 11:25:03,595 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.menus.items.StonesAddNewItem] - saveListOfStonesToFile
+2015-03-25 11:26:00,175 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.menus.items.ChooseClientItem] - setCurrentClient Віра (жінка, 60 років)
+2015-03-25 11:26:08,893 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.menus.items.BuyItem] - select 1
+2015-03-25 11:26:11,325 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.menus.items.NewBuyItem] - getBucketOfStones().add(stone)
+2015-03-25 11:26:17,019 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.menus.items.NewBuyItem] - getBucketOfStones().add(stone)
+2015-03-25 11:26:20,446 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.menus.items.NewBuyItem] - getBucketOfStones().add(stone)
+2015-03-25 11:26:26,571 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.menus.items.NewBuyItem] - getBucketOfStones().add(stone)
+2015-03-25 11:26:30,792 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.menus.items.NewBuyItem] - getBucketOfStones().add(stone)
+2015-03-25 11:26:39,560 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.menus.items.BuyItem] - select 2
+2015-03-25 11:26:51,373 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.menus.items.BuyItem] - select 3
+2015-03-25 11:26:59,265 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.menus.items.BuyItem] - select 4
+2015-03-25 11:27:10,918 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.menus.items.BuyItem] - select 4
+2015-03-25 11:27:29,499 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.menus.items.BuyItem] - select 4
+2015-03-25 11:27:39,459 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.menus.items.BuyItem] - select 5
+2015-03-25 11:27:48,334 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.menus.items.BuyItem] - select 6
+2015-03-25 11:28:04,819 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.menus.items.BuyItem] - select 0
+2015-03-25 11:28:08,280 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.menus.items.QuitProgtramItem] - QuitProgtramItem.execute()
+2015-03-25 11:44:57,922 [INFO ][main            ][tgrynchuk.jewelry.EntryPoint] - Starts......
+2015-03-25 11:44:57,932 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.JewelryController] - try openListOfStonesToFile
+2015-03-25 11:44:57,982 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.JewelryController] - try openListOfClientsToFile
+2015-03-25 11:44:57,982 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.JewelryController] - start()-->
+2015-03-25 11:45:43,976 [INFO ][main            ][tgrynchuk.jewelry.EntryPoint] - Starts......
+2015-03-25 11:45:43,986 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.JewelryController] - try openListOfStonesToFile
+2015-03-25 11:45:44,043 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.JewelryController] - try openListOfClientsToFile
+2015-03-25 11:45:44,043 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.JewelryController] - start()-->
+2015-03-25 11:46:26,405 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.menus.items.StonesAddNewItem] - getListOfStones().add # 9. Агат/ Напівкоштовний, II порядку/ Ціна, $: 300.0/ Карат: 3.0/ Сiрий/ тверд. шк. Мооса: 6/ блиск: Восковий/ Просвічуючий по краях/ сингонія: Тригональна/ інд. залом.: 1.202
+2015-03-25 11:46:26,405 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.menus.items.StonesAddNewItem] - saveListOfStonesToFile
+2015-03-25 11:47:21,795 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.menus.items.StonesAddNewItem] - getListOfStones().add # 10. Агат/ Напівкоштовний, II порядку/ Ціна, $: 4.0/ Карат: 3.0/ Сiрий/ тверд. шк. Мооса: 6/ блиск: Восковий/ Просвічуючий по краях/ сингонія: Тригональна/ інд. залом.: 1.202
+2015-03-25 11:47:21,805 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.menus.items.StonesAddNewItem] - saveListOfStonesToFile
+2015-03-25 11:47:28,905 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.menus.items.QuitProgtramItem] - QuitProgtramItem.execute()
+2015-03-25 12:02:35,815 [INFO ][main            ][tgrynchuk.jewelry.EntryPoint] - Starts......
+2015-03-25 12:02:35,825 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.JewelryController] - try openListOfStonesToFile
+2015-03-25 12:02:35,881 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.JewelryController] - try openListOfClientsToFile
+2015-03-25 12:02:35,891 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.JewelryController] - start()-->
+2015-03-25 12:02:58,959 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.menus.items.ClientsAddNewItem] - newInstanceOfClient Вачиль (чоловік, 30 років)
+2015-03-25 12:02:58,959 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.menus.items.ClientsAddNewItem] - getListOfClients().add Вачиль (чоловік, 30 років)
+2015-03-25 12:02:58,969 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.menus.items.ClientsAddNewItem] - saveListOfClientsToFile
+2015-03-25 12:40:40,297 [INFO ][main            ][tgrynchuk.jewelry.EntryPoint] - Starts......
+2015-03-25 12:40:40,307 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.JewelryController] - try openListOfStonesToFile
+2015-03-25 12:40:40,365 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.JewelryController] - try openListOfClientsToFile
+2015-03-25 12:40:40,375 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.JewelryController] - start()-->
+2015-03-25 12:59:04,885 [INFO ][main            ][tgrynchuk.jewelry.EntryPoint] - Starts......
+2015-03-25 12:59:04,945 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.JewelryController] - try openListOfStonesToFile
+2015-03-25 12:59:04,999 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.JewelryController] - try openListOfClientsToFile
+2015-03-25 12:59:05,003 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.JewelryController] - start()-->
+2015-03-25 12:59:44,745 [INFO ][main            ][tgrynchuk.jewelry.EntryPoint] - Starts......
+2015-03-25 12:59:44,755 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.JewelryController] - try openListOfStonesToFile
+2015-03-25 12:59:44,812 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.JewelryController] - try openListOfClientsToFile
+2015-03-25 12:59:44,816 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.JewelryController] - start()-->
+2015-03-25 13:02:38,550 [INFO ][main            ][tgrynchuk.jewelry.EntryPoint] - Starts......
+2015-03-25 13:02:38,560 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.JewelryController] - try openListOfStonesToFile
+2015-03-25 13:02:38,616 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.JewelryController] - try openListOfClientsToFile
+2015-03-25 13:02:38,619 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.JewelryController] - start()-->
+2015-03-25 13:04:05,598 [INFO ][main            ][tgrynchuk.jewelry.EntryPoint] - Starts......
+2015-03-25 13:04:05,608 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.JewelryController] - try openListOfStonesToFile
+2015-03-25 13:04:05,667 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.JewelryController] - try openListOfClientsToFile
+2015-03-25 13:04:05,670 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.JewelryController] - start()-->
+2015-03-25 13:05:08,128 [INFO ][main            ][tgrynchuk.jewelry.EntryPoint] - Starts......
+2015-03-25 13:05:08,139 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.JewelryController] - try openListOfStonesToFile
+2015-03-25 13:05:08,194 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.JewelryController] - try openListOfClientsToFile
+2015-03-25 13:05:08,201 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.JewelryController] - start()-->
+2015-03-25 13:05:49,185 [INFO ][main            ][tgrynchuk.jewelry.EntryPoint] - Starts......
+2015-03-25 13:05:49,195 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.JewelryController] - try openListOfStonesToFile
+2015-03-25 13:05:49,250 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.JewelryController] - try openListOfClientsToFile
+2015-03-25 13:05:49,254 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.JewelryController] - start()-->
+2015-03-25 13:06:04,643 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.menus.items.QuitProgtramItem] - QuitProgtramItem.execute()
+2015-03-25 13:06:10,077 [INFO ][main            ][tgrynchuk.jewelry.EntryPoint] - Starts......
+2015-03-25 13:06:10,087 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.JewelryController] - try openListOfStonesToFile
+2015-03-25 13:06:10,142 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.JewelryController] - try openListOfClientsToFile
+2015-03-25 13:06:10,146 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.JewelryController] - start()-->
+2015-03-25 13:11:15,413 [INFO ][main            ][tgrynchuk.jewelry.EntryPoint] - Starts......
+2015-03-25 13:11:15,423 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.JewelryController] - try openListOfStonesToFile
+2015-03-25 13:11:15,481 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.JewelryController] - try openListOfClientsToFile
+2015-03-25 13:11:15,485 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.JewelryController] - start()-->
+2015-03-25 13:16:57,039 [INFO ][main            ][tgrynchuk.jewelry.EntryPoint] - Starts......
+2015-03-25 13:16:57,050 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.JewelryController] - try openListOfStonesToFile
+2015-03-25 13:16:57,127 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.JewelryController] - try openListOfClientsToFile
+2015-03-25 13:16:57,134 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.JewelryController] - start()-->
+2015-03-25 13:18:36,811 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.menus.items.ClientsAddNewItem] - newInstanceOfClient wswsw (жінка, 5 років)
+2015-03-25 13:18:36,812 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.menus.items.ClientsAddNewItem] - getListOfClients().add wswsw (жінка, 5 років)
+2015-03-25 13:18:36,818 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.menus.items.ClientsAddNewItem] - saveListOfClientsToFile
+2015-03-25 13:26:18,281 [INFO ][main            ][tgrynchuk.jewelry.EntryPoint] - Starts......
+2015-03-25 13:26:18,291 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.JewelryController] - try openListOfStonesToFile
+2015-03-25 13:26:18,348 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.JewelryController] - try openListOfClientsToFile
+2015-03-25 13:26:18,354 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.JewelryController] - start()-->
+2015-03-25 13:27:00,841 [INFO ][main            ][tgrynchuk.jewelry.EntryPoint] - Starts......
+2015-03-25 13:27:00,852 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.JewelryController] - try openListOfStonesToFile
+2015-03-25 13:27:00,913 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.JewelryController] - try openListOfClientsToFile
+2015-03-25 13:27:00,917 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.JewelryController] - start()-->
+2015-03-25 13:27:53,832 [INFO ][main            ][tgrynchuk.jewelry.EntryPoint] - Starts......
+2015-03-25 13:27:53,842 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.JewelryController] - try openListOfStonesToFile
+2015-03-25 13:27:53,899 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.JewelryController] - try openListOfClientsToFile
+2015-03-25 13:27:53,903 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.JewelryController] - start()-->
+2015-03-25 13:28:29,012 [INFO ][main            ][tgrynchuk.jewelry.EntryPoint] - Starts......
+2015-03-25 13:28:29,023 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.JewelryController] - try openListOfStonesToFile
+2015-03-25 13:28:29,077 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.JewelryController] - try openListOfClientsToFile
+2015-03-25 13:28:29,080 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.JewelryController] - start()-->
+2015-03-25 13:29:10,296 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.menus.items.ClientsAddNewItem] - newInstanceOfClient Serg (чоловік, 18 років)
+2015-03-25 13:29:10,297 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.menus.items.ClientsAddNewItem] - getListOfClients().add Serg (чоловік, 18 років)
+2015-03-25 13:29:10,302 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.menus.items.ClientsAddNewItem] - saveListOfClientsToFile
+2015-03-25 13:29:34,656 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.menus.items.ClientsAddNewItem] - newInstanceOfClient Jack (чоловік, 50 років)
+2015-03-25 13:29:34,657 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.menus.items.ClientsAddNewItem] - getListOfClients().add Jack (чоловік, 50 років)
+2015-03-25 13:29:34,662 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.menus.items.ClientsAddNewItem] - saveListOfClientsToFile
+2015-03-25 13:31:23,625 [INFO ][main            ][tgrynchuk.jewelry.EntryPoint] - Starts......
+2015-03-25 13:31:23,635 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.JewelryController] - try openListOfStonesToFile
+2015-03-25 13:31:23,694 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.JewelryController] - try openListOfClientsToFile
+2015-03-25 13:31:23,701 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.JewelryController] - start()-->
+2015-03-25 13:33:17,217 [INFO ][main            ][tgrynchuk.jewelry.EntryPoint] - Starts......
+2015-03-25 13:33:17,228 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.JewelryController] - try openListOfStonesToFile
+2015-03-25 13:33:17,288 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.JewelryController] - try openListOfClientsToFile
+2015-03-25 13:33:17,293 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.JewelryController] - start()-->
+2015-03-25 13:51:25,886 [INFO ][main            ][tgrynchuk.jewelry.EntryPoint] - Starts......
+2015-03-25 13:51:25,896 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.JewelryController] - try openListOfStonesToFile
+2015-03-25 13:51:25,946 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.JewelryController] - try openListOfClientsToFile
+2015-03-25 13:51:25,946 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.JewelryController] - start()-->
+2015-03-25 13:51:30,583 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.menus.items.QuitProgtramItem] - QuitProgtramItem.execute()
+2015-03-25 13:51:35,284 [INFO ][main            ][tgrynchuk.jewelry.EntryPoint] - Starts......
+2015-03-25 13:51:35,294 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.JewelryController] - try openListOfStonesToFile
+2015-03-25 13:51:35,344 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.JewelryController] - try openListOfClientsToFile
+2015-03-25 13:51:35,354 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.JewelryController] - start()-->
+2015-03-25 13:52:00,741 [INFO ][main            ][tgrynchuk.jewelry.EntryPoint] - Starts......
+2015-03-25 13:52:00,751 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.JewelryController] - try openListOfStonesToFile
+2015-03-25 13:52:00,801 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.JewelryController] - try openListOfClientsToFile
+2015-03-25 13:52:00,811 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.JewelryController] - start()-->
+2015-03-25 13:52:28,369 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.menus.items.StonesAddNewItem] - getListOfStones().add # 11. Сапфiр/ Коштовний, I порядку/ Ціна, $: 6.0/ Карат: 7.0/ Блакитний/ тверд. шк. Мооса: 9/ блиск: Скляний/ Напівпрозорий/ сингонія: Тригональна/ інд. залом.: 1.778
+2015-03-25 13:52:28,374 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.menus.items.StonesAddNewItem] - saveListOfStonesToFile
+2015-03-25 13:52:56,028 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.menus.items.StonesAddNewItem] - getListOfStones().add # 12. Топаз/ Коштовний, I порядку/ Ціна, $: 566.0/ Карат: 3.0/ Блакитний/ тверд. шк. Мооса: 7/ блиск: Скляний/ Напівпрозорий/ сингонія: Гексагональна/ інд. залом.: 1.384
+2015-03-25 13:52:56,038 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.menus.items.StonesAddNewItem] - saveListOfStonesToFile
+2015-03-25 13:55:00,348 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.menus.items.ClientsAddNewItem] - newInstanceOfClient Tanja (жінка, 65 років)
+2015-03-25 13:55:00,348 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.menus.items.ClientsAddNewItem] - getListOfClients().add Tanja (жінка, 65 років)
+2015-03-25 13:55:00,358 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.menus.items.ClientsAddNewItem] - saveListOfClientsToFile
+2015-03-25 13:56:07,038 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.menus.items.QuitProgtramItem] - QuitProgtramItem.execute()
+2015-03-25 16:02:25,915 [INFO ][main            ][tgrynchuk.jewelry.EntryPoint] - Starts......
+2015-03-25 16:02:26,040 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.JewelryController] - try openListOfStonesToFile
+2015-03-25 16:02:26,102 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.JewelryController] - try openListOfClientsToFile
+2015-03-25 16:02:26,118 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.JewelryController] - start()-->
+2015-03-25 16:02:31,423 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.menus.items.QuitProgtramItem] - QuitProgtramItem.execute()
+2015-03-25 16:13:26,375 [INFO ][main            ][tgrynchuk.jewelry.EntryPoint] - Starts......
+2015-03-25 16:13:26,389 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.JewelryController] - try openListOfStonesToFile
+2015-03-25 16:13:26,456 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.JewelryController] - try openListOfClientsToFile
+2015-03-25 16:13:26,463 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.JewelryController] - start()-->
+2015-03-25 16:13:47,903 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.menus.items.QuitProgtramItem] - QuitProgtramItem.execute()
+2015-03-25 16:44:06,417 [INFO ][main            ][tgrynchuk.jewelry.EntryPoint] - Starts......
+2015-03-25 16:44:06,430 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.JewelryController] - try openListOfStonesToFile
+2015-03-25 16:44:06,491 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.JewelryController] - try openListOfClientsToFile
+2015-03-25 16:44:06,494 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.JewelryController] - start()-->
+2015-03-25 16:44:13,698 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.menus.items.QuitProgtramItem] - QuitProgtramItem.execute()
+2015-03-25 16:59:14,140 [INFO ][main            ][tgrynchuk.jewelry.EntryPoint] - Starts......
+2015-03-25 16:59:14,153 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.JewelryController] - try openListOfStonesToFile
+2015-03-25 16:59:14,218 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.JewelryController] - try openListOfClientsToFile
+2015-03-25 16:59:14,223 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.JewelryController] - start()-->
+2015-03-25 17:00:27,573 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.menus.items.QuitProgtramItem] - QuitProgtramItem.execute()
+2015-03-25 17:24:46,508 [INFO ][main            ][tgrynchuk.jewelry.EntryPoint] - Starts......
+2015-03-25 17:24:46,522 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.JewelryController] - try openListOfStonesToFile
+2015-03-25 17:24:46,594 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.JewelryController] - try openListOfClientsToFile
+2015-03-25 17:24:46,599 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.JewelryController] - start()-->
+2015-03-25 17:25:13,913 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.menus.items.QuitProgtramItem] - QuitProgtramItem.execute()
+2015-03-25 17:27:03,392 [INFO ][main            ][tgrynchuk.jewelry.EntryPoint] - Starts......
+2015-03-25 17:27:03,403 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.JewelryController] - try openListOfStonesToFile
+2015-03-25 17:27:03,468 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.JewelryController] - try openListOfClientsToFile
+2015-03-25 17:27:03,475 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.JewelryController] - start()-->
+2015-03-25 17:27:05,929 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.menus.items.QuitProgtramItem] - QuitProgtramItem.execute()
+2015-03-25 17:34:19,760 [INFO ][main            ][tgrynchuk.jewelry.EntryPoint] - Starts......
+2015-03-25 17:34:19,771 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.JewelryController] - try openListOfStonesToFile
+2015-03-25 17:34:19,833 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.JewelryController] - try openListOfClientsToFile
+2015-03-25 17:34:19,838 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.JewelryController] - start()-->
+2015-03-25 17:34:33,628 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.menus.items.ClientsAddNewItem] - newInstanceOfClient Ira (жінка, 56 років)
+2015-03-25 17:34:33,629 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.menus.items.ClientsAddNewItem] - getListOfClients().add Ira (жінка, 56 років)
+2015-03-25 17:34:33,632 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.menus.items.ClientsAddNewItem] - saveListOfClientsToFile
+2015-03-25 17:34:45,988 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.menus.items.BuyItem] - select 1
+2015-03-25 17:34:48,810 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.menus.items.BuyItem] - select 0
+2015-03-25 17:34:58,662 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.menus.items.ChooseClientItem] - setCurrentClient Serg (чоловік, 18 років)
+2015-03-25 17:35:08,442 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.menus.items.BuyItem] - select 1
+2015-03-25 17:35:11,280 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.menus.items.NewBuyItem] - getBucketOfStones().add(stone)
+2015-03-25 17:35:12,809 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.menus.items.NewBuyItem] - getBucketOfStones().add(stone)
+2015-03-25 17:35:15,368 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.menus.items.NewBuyItem] - getBucketOfStones().add(stone)
+2015-03-25 17:35:23,253 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.menus.items.BuyItem] - select 4
+2015-03-25 17:35:37,188 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.menus.items.BuyItem] - select 0
+2015-03-25 17:35:48,523 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.menus.items.QuitProgtramItem] - QuitProgtramItem.execute()
+2015-03-25 17:55:16,149 [INFO ][main            ][tgrynchuk.jewelry.EntryPoint] - Starts......
+2015-03-25 17:55:16,162 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.JewelryController] - try openListOfStonesToFile
+2015-03-25 17:55:16,221 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.JewelryController] - try openListOfClientsToFile
+2015-03-25 17:55:16,228 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.JewelryController] - start()-->
+2015-03-25 17:55:38,639 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.menus.items.ClientsAddNewItem] - newInstanceOfClient 5 (жінка, 6 років)
+2015-03-25 17:55:38,639 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.menus.items.ClientsAddNewItem] - getListOfClients().add 5 (жінка, 6 років)
+2015-03-25 17:55:38,642 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.menus.items.ClientsAddNewItem] - saveListOfClientsToFile
+2015-03-25 17:56:28,272 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.menus.items.QuitProgtramItem] - QuitProgtramItem.execute()
+2015-03-25 17:56:50,378 [INFO ][main            ][tgrynchuk.jewelry.EntryPoint] - Starts......
+2015-03-25 17:56:50,390 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.JewelryController] - try openListOfStonesToFile
+2015-03-25 17:56:50,453 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.JewelryController] - try openListOfClientsToFile
+2015-03-25 17:56:50,467 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.JewelryController] - start()-->
+2015-03-25 17:57:14,205 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.menus.items.QuitProgtramItem] - QuitProgtramItem.execute()
+2015-03-25 18:10:43,084 [INFO ][main            ][tgrynchuk.jewelry.EntryPoint] - Starts......
+2015-03-25 18:10:43,094 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.JewelryController] - try openListOfStonesToFile
+2015-03-25 18:10:43,154 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.JewelryController] - try openListOfClientsToFile
+2015-03-25 18:10:43,216 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.JewelryController] - start()-->
+2015-03-25 18:10:52,822 [INFO ][main            ][tgrynchuk.jewelry.EntryPoint] - Starts......
+2015-03-25 18:10:52,832 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.JewelryController] - try openListOfStonesToFile
+2015-03-25 18:10:52,897 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.JewelryController] - try openListOfClientsToFile
+2015-03-25 18:10:52,907 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.JewelryController] - start()-->
+2015-03-25 18:11:20,008 [INFO ][main            ][tgrynchuk.jewelry.EntryPoint] - Starts......
+2015-03-25 18:11:20,018 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.JewelryController] - try openListOfStonesToFile
+2015-03-25 18:11:20,092 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.JewelryController] - try openListOfClientsToFile
+2015-03-25 18:11:20,104 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.JewelryController] - start()-->
+2015-03-25 18:11:52,621 [INFO ][main            ][tgrynchuk.jewelry.EntryPoint] - Starts......
+2015-03-25 18:11:52,631 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.JewelryController] - try openListOfStonesToFile
+2015-03-25 18:11:52,701 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.JewelryController] - try openListOfClientsToFile
+2015-03-25 18:11:52,711 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.JewelryController] - start()-->
+2015-03-25 18:12:48,693 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.menus.items.StonesAddNewItem] - getListOfStones().add # 13. Алмаз/ Коштовний, I порядку/ Ціна, $: 100.0/ Карат: 3.0/ Безбарвний/ тверд. шк. Мооса: 8/ блиск: Алмазний/ Прозорий/ сингонія: Кубічна/ інд. залом.: 2.402
+2015-03-25 18:12:48,698 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.menus.items.StonesAddNewItem] - saveListOfStonesToFile
+2015-03-25 18:12:58,248 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.menus.items.StonesDeleteItem] - getListOfStones().remove # 7. Топаз/ Коштовний, I порядку/ Ціна, $: 379.0/ Карат: 3.0/ Блакитний/ тверд. шк. Мооса: 7/ блиск: Скляний/ Напівпрозорий/ сингонія: Гексагональна/ інд. залом.: 1.384
+2015-03-25 18:12:58,258 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.menus.items.StonesDeleteItem] - saveListOfStonesToFile
+2015-03-25 18:13:47,682 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.menus.items.ClientsDeleteItem] - getListOfClients().remove Степан (чоловік, 20 років)
+2015-03-25 18:13:47,682 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.menus.items.ClientsDeleteItem] - saveListOfClientsToFile
+2015-03-25 18:14:21,848 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.menus.items.BuyItem] - select 1
+2015-03-25 18:14:25,681 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.menus.items.BuyItem] - select 0
+2015-03-25 18:14:36,488 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.menus.items.ChooseClientItem] - setCurrentClient Богдан (чоловік, 65 років)
+2015-03-25 18:14:47,533 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.menus.items.BuyItem] - select 1
+2015-03-25 18:14:50,253 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.menus.items.NewBuyItem] - getBucketOfStones().add(stone)
+2015-03-25 18:14:51,171 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.menus.items.NewBuyItem] - getBucketOfStones().add(stone)
+2015-03-25 18:14:59,867 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.menus.items.NewBuyItem] - getBucketOfStones().add(stone)
+2015-03-25 18:15:04,434 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.menus.items.NewBuyItem] - getBucketOfStones().add(stone)
+2015-03-25 18:15:43,768 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.menus.items.BuyItem] - select 3
+2015-03-25 18:15:53,172 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.menus.items.BuyItem] - select 4
+2015-03-25 18:16:07,947 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.menus.items.BuyItem] - select 5
+2015-03-25 18:16:14,789 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.menus.items.BuyItem] - select 6
+2015-03-25 18:16:30,938 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.menus.items.BuyItem] - select 0
+2015-03-25 18:16:58,940 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.menus.items.ClientsAddNewItem] - newInstanceOfClient ann (жінка, 56 років)
+2015-03-25 18:16:58,940 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.menus.items.ClientsAddNewItem] - getListOfClients().add ann (жінка, 56 років)
+2015-03-25 18:16:58,945 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.menus.items.ClientsAddNewItem] - saveListOfClientsToFile
+2015-03-25 18:17:46,811 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.menus.items.StonesAddNewItem] - getListOfStones().add # 14. Смарагд/ Коштовний, I порядку/ Ціна, $: 5.0/ Карат: 5.0/ Зелений/ тверд. шк. Мооса: 8/ блиск: Скляний/ Напівпрозорий/ сингонія: Тригональна/ інд. залом.: 1.576
+2015-03-25 18:17:46,816 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.menus.items.StonesAddNewItem] - saveListOfStonesToFile
+2015-03-25 18:17:59,566 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.menus.items.QuitProgtramItem] - QuitProgtramItem.execute()
+2015-03-25 18:19:04,348 [INFO ][main            ][tgrynchuk.jewelry.EntryPoint] - Starts......
+2015-03-25 18:19:04,358 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.JewelryController] - try openListOfStonesToFile
+2015-03-25 18:19:04,418 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.JewelryController] - try openListOfClientsToFile
+2015-03-25 18:19:04,418 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.JewelryController] - start()-->
+2015-03-26 23:50:29,925 [INFO ][main            ][tgrynchuk.jewelry.EntryPoint] - Starts......
+2015-03-26 23:50:30,119 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.JewelryController] - try openListOfStonesToFile
+2015-03-26 23:50:30,671 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.JewelryController] - try openListOfClientsToFile
+2015-03-26 23:50:30,681 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.JewelryController] - start()-->
+2015-03-27 17:34:01,576 [INFO ][main            ][tgrynchuk.jewelry.EntryPoint] - Starts......
+2015-03-27 17:34:01,656 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.JewelryController] - try openListOfStonesToFile
+2015-03-27 17:34:02,296 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.JewelryController] - try openListOfClientsToFile
+2015-03-27 17:34:02,306 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.JewelryController] - start()-->
+2015-03-27 17:34:07,580 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.menus.items.QuitProgtramItem] - QuitProgtramItem.execute()
+2015-03-27 17:34:45,181 [INFO ][main            ][tgrynchuk.jewelry.EntryPoint] - Starts......
+2015-03-27 17:34:45,191 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.JewelryController] - try openListOfStonesToFile
+2015-03-27 17:34:45,241 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.JewelryController] - try openListOfClientsToFile
+2015-03-27 17:34:45,251 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.JewelryController] - start()-->
+2015-03-27 17:35:13,308 [INFO ][main            ][tgrynchuk.jewelry.EntryPoint] - Starts......
+2015-03-27 17:35:13,325 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.JewelryController] - try openListOfStonesToFile
+2015-03-27 17:35:13,374 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.JewelryController] - try openListOfClientsToFile
+2015-03-27 17:35:13,384 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.JewelryController] - start()-->
+2015-05-30 17:04:31,579 [INFO ][main            ][tgrynchuk.jewelry.EntryPoint] - Starts......
+2015-05-30 17:04:31,834 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.JewelryController] - try openListOfStonesToFile
+2015-05-30 17:04:32,927 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.JewelryController] - try openListOfClientsToFile
+2015-05-30 17:04:32,986 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.JewelryController] - start()-->
+2015-05-30 17:04:58,506 [INFO ][main            ][tgrynchuk.jewelry.mvc.engine.menus.items.QuitProgtramItem] - QuitProgtramItem.execute()

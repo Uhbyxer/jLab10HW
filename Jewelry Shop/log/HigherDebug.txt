@@ -1,0 +1,16 @@
+2015-05-30 17:04:31,579 [INFO ][main            ][pam.tgrynchuk.jewelry.EntryPoint] - []Starts......
+2015-05-30 17:04:31,834 [INFO ][main            ][lry.mvc.engine.JewelryController] - []try openListOfStonesToFile
+2015-05-30 17:04:32,927 [INFO ][main            ][lry.mvc.engine.JewelryController] - []try openListOfClientsToFile
+2015-05-30 17:04:32,986 [INFO ][main            ][lry.mvc.engine.JewelryController] - []start()-->
+2015-05-30 17:04:33,584 [DEBUG][main            ][.tgrynchuk.jewelry.mvc.ui.Window] - [][0 --> �����i >, 1 --> �볺��� >, 2 --> ������� �������..., 3 --> ������ >, 9 --> ³������ ������� ������..., q --> ����� � ��������]
+2015-05-30 17:04:33,585 [DEBUG][main            ][.tgrynchuk.jewelry.mvc.ui.Window] - [][0 --> �����i >, 1 --> �볺��� >, 2 --> ������� �������..., 3 --> ������ >, 9 --> ³������ ������� ������..., q --> ����� � ��������]
+2015-05-30 17:04:45,483 [DEBUG][main            ][lry.mvc.engine.JewelryController] - []mainMenu.select 0
+2015-05-30 17:04:45,484 [DEBUG][main            ][vc.engine.menus.items.StonesItem] - []StonesItem.execute()
+2015-05-30 17:04:45,613 [DEBUG][main            ][.tgrynchuk.jewelry.mvc.ui.Window] - [][0 --> ..., 1 --> �������� ������ ��������� ������, 2 --> ������ ����� �����..., 3 --> �������� �����...]
+2015-05-30 17:04:45,614 [DEBUG][main            ][.tgrynchuk.jewelry.mvc.ui.Window] - [][0 --> ..., 1 --> �������� ������ ��������� ������, 2 --> ������ ����� �����..., 3 --> �������� �����...]
+2015-05-30 17:04:55,745 [DEBUG][main            ][vc.engine.menus.items.StonesItem] - []menu.select 0
+2015-05-30 17:04:55,746 [DEBUG][main            ][.mvc.engine.menus.items.BackItem] - []BackItem.execute()
+2015-05-30 17:04:55,746 [DEBUG][main            ][.tgrynchuk.jewelry.mvc.ui.Window] - [][0 --> �����i >, 1 --> �볺��� >, 2 --> ������� �������..., 3 --> ������ >, 9 --> ³������ ������� ������..., q --> ����� � ��������]
+2015-05-30 17:04:55,749 [DEBUG][main            ][.tgrynchuk.jewelry.mvc.ui.Window] - [][0 --> �����i >, 1 --> �볺��� >, 2 --> ������� �������..., 3 --> ������ >, 9 --> ³������ ������� ������..., q --> ����� � ��������]
+2015-05-30 17:04:58,505 [DEBUG][main            ][lry.mvc.engine.JewelryController] - []mainMenu.select q
+2015-05-30 17:04:58,506 [INFO ][main            ][ine.menus.items.QuitProgtramItem] - []QuitProgtramItem.execute()

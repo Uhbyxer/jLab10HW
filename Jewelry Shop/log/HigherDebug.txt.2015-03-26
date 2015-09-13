@@ -1,0 +1,6 @@
+2015-03-26 23:50:29,925 [INFO ][main            ][pam.tgrynchuk.jewelry.EntryPoint] - []Starts......
+2015-03-26 23:50:30,119 [INFO ][main            ][lry.mvc.engine.JewelryController] - []try openListOfStonesToFile
+2015-03-26 23:50:30,671 [INFO ][main            ][lry.mvc.engine.JewelryController] - []try openListOfClientsToFile
+2015-03-26 23:50:30,681 [INFO ][main            ][lry.mvc.engine.JewelryController] - []start()-->
+2015-03-26 23:50:31,992 [DEBUG][main            ][.tgrynchuk.jewelry.mvc.ui.Window] - [][0 --> Каменi >, 1 --> Клієнти >, 2 --> Вибрати покупця..., 3 --> Купівля >, 9 --> Відкрити консоль команд..., q --> Вихід з програми]
+2015-03-26 23:50:31,993 [DEBUG][main            ][.tgrynchuk.jewelry.mvc.ui.Window] - [][0 --> Каменi >, 1 --> Клієнти >, 2 --> Вибрати покупця..., 3 --> Купівля >, 9 --> Відкрити консоль команд..., q --> Вихід з програми]
