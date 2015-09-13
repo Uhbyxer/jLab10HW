@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<candies>
+
+  <candy id="0">
+
+    <name>Snickers</name>
+
+    <energy>500</energy>
+
+    <type>Chocolate</type>
+    
+    <production>Mars, LTD</production>
+    
+    <value protein="3" fat="35" carbohydrates="32"></value>
+	
+	<ingredients>
+		<ingredient name = "water">8</ingredient>
+		<ingredient name = "sugar">4</ingredient>
+		<ingredient name = "vanilla">3</ingredient>
+		<ingredient name = "caramel">3</ingredient>
+		<ingredient name = "cocoa">3</ingredient>
+		<ingredient name = "nuts">3</ingredient>
+	</ingredients>
+
+  </candy>
+
+  <candy id="1">
+
+    <name>Guliver</name>
+
+    <energy>150</energy>
+
+    <type>Waffle</type>
+    
+    <production>Roshen</production>
+    
+    <value protein="2" fat="30" carbohydrates="40"></value>
+    
+	<ingredients>
+		<ingredient name = "water">7</ingredient>
+		<ingredient name = "sugar">3</ingredient>
+		<ingredient name = "vanilla">3</ingredient>
+		<ingredient name = "cocoa">3</ingredient>
+		<ingredient name = "waffles">3</ingredient>
+	</ingredients>    
+	
+  </candy>
+
+  <candy id="2">
+
+    <name>Chupa chups</name>
+
+    <energy>75</energy>
+
+    <type>Caramel</type>
+    
+    <production>Perfetti Van Melle</production>
+    
+    <value protein="4" fat="20" carbohydrates="15"></value>
+    
+	<ingredients>
+		<ingredient name = "water">4</ingredient>
+		<ingredient name = "vanilla">2</ingredient>
+		<ingredient name = "sugar">4</ingredient>
+		<ingredient name = "vanilla">3</ingredient>
+	</ingredients> 
+	
+  </candy>
+
+</candies>

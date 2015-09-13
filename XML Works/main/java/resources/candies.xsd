@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" attributeFormDefault="unqualified" elementFormDefault="qualified">
+  <xs:element name="candies" type="candiesType"/>
+  <xs:complexType name="valueType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:byte" name="protein" use="optional"/>
+        <xs:attribute type="xs:byte" name="fat" use="optional"/>
+        <xs:attribute type="xs:byte" name="carbohydrates" use="optional"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="ingredientType">
+    <xs:simpleContent>
+      <xs:extension base="xs:byte">
+        <xs:attribute type="xs:string" name="name" use="optional"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="ingredientsType">
+    <xs:sequence>
+      <xs:element type="ingredientType" name="ingredient" maxOccurs="unbounded" minOccurs="0"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="candyType">
+    <xs:sequence>
+      <xs:element type="xs:string" name="name"/>
+      <xs:element type="xs:short" name="energy"/>
+      <xs:element type="xs:string" name="type"/>
+      <xs:element type="xs:string" name="production"/>
+      <xs:element type="valueType" name="value"/>
+      <xs:element type="ingredientsType" name="ingredients"/>
+    </xs:sequence>
+    <xs:attribute type="xs:byte" name="id" use="optional"/>
+  </xs:complexType>
+  <xs:complexType name="candiesType">
+    <xs:sequence>
+      <xs:element type="candyType" name="candy" maxOccurs="unbounded" minOccurs="0"/>
+    </xs:sequence>
+  </xs:complexType>
+</xs:schema>
