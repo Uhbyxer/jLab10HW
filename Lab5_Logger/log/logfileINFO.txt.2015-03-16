@@ -1,0 +1,12 @@
+2015-03-16 16:04:23,698 [INFO ][main            ][tgrynchuk.lab5logger.TestLogger] - Info!!!!!!!!!!!!!!!!!!
+2015-03-16 16:04:30,281 [INFO ][main            ][tgrynchuk.lab5logger.TestFilters] - static Test filters: info
+2015-03-16 16:04:33,699 [INFO ][main            ][tgrynchuk.lab5logger.TestFilters] - Test filters: info
+2015-03-16 18:47:45,377 [INFO ][main            ][tgrynchuk.lab5logger.TestLogger] - Info!!!!!!!!!!!!!!!!!!
+2015-03-16 18:47:54,085 [INFO ][main            ][tgrynchuk.lab5logger.TestFilters] - static Test filters: info
+2015-03-16 18:47:58,012 [INFO ][main            ][tgrynchuk.lab5logger.TestFilters] - Test filters: info
+2015-03-16 18:48:34,062 [INFO ][main            ][tgrynchuk.lab5logger.TestLogger] - Info!!!!!!!!!!!!!!!!!!
+2015-03-16 18:48:38,356 [INFO ][main            ][tgrynchuk.lab5logger.TestFilters] - static Test filters: info
+2015-03-16 18:48:41,505 [INFO ][main            ][tgrynchuk.lab5logger.TestFilters] - Test filters: info
+2015-03-16 18:49:31,901 [INFO ][main            ][tgrynchuk.lab5logger.TestLogger] - Info!!!!!!!!!!!!!!!!!!
+2015-03-16 18:49:36,703 [INFO ][main            ][tgrynchuk.lab5logger.TestFilters] - static Test filters: info
+2015-03-16 18:49:40,031 [INFO ][main            ][tgrynchuk.lab5logger.TestFilters] - Test filters: info

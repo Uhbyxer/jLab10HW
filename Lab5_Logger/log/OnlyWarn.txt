@@ -1,0 +1,106 @@
+2015-03-15 19:27:06,809 [WARN ][main            ][.tgrynchuk.lab5logger.TestLogger] - []warning
+2015-03-15 19:27:06,813 [WARN ][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: warn
+2015-03-15 19:27:06,814 [WARN ][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: warn
+2015-03-15 19:27:29,538 [WARN ][main            ][.tgrynchuk.lab5logger.TestLogger] - []warning
+2015-03-15 19:27:29,548 [WARN ][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: warn
+2015-03-15 19:27:29,548 [WARN ][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: warn
+2015-03-15 19:58:01,048 [WARN ][main            ][.tgrynchuk.lab5logger.TestLogger] - []warning
+2015-03-15 19:58:01,048 [WARN ][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: warn
+2015-03-15 19:58:01,048 [WARN ][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: warn
+2015-03-15 19:58:22,674 [WARN ][main            ][.tgrynchuk.lab5logger.TestLogger] - []warning
+2015-03-15 19:58:22,674 [WARN ][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: warn
+2015-03-15 19:58:22,684 [WARN ][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: warn
+2015-03-15 20:06:56,966 [WARN ][main            ][.tgrynchuk.lab5logger.TestLogger] - []warning
+2015-03-15 20:07:14,893 [WARN ][main            ][.tgrynchuk.lab5logger.TestLogger] - []warning
+2015-03-15 20:07:18,025 [WARN ][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: warn
+2015-03-15 20:07:35,899 [WARN ][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: warn
+2015-03-15 20:08:00,048 [WARN ][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: warn
+2015-03-15 20:08:17,972 [WARN ][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: warn
+2015-03-15 20:14:39,590 [WARN ][main            ][.tgrynchuk.lab5logger.TestLogger] - []warning
+2015-03-15 20:15:00,676 [WARN ][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: warn
+2015-03-15 20:15:42,719 [WARN ][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: warn
+2015-03-15 20:30:25,133 [WARN ][main            ][.tgrynchuk.lab5logger.TestLogger] - []warning
+2015-03-15 21:08:45,862 [WARN ][main            ][.tgrynchuk.lab5logger.TestLogger] - []warning
+2015-03-15 21:10:18,872 [WARN ][main            ][.tgrynchuk.lab5logger.TestLogger] - []warning
+2015-03-15 21:10:20,942 [WARN ][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: warn
+2015-03-15 21:10:22,208 [WARN ][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: warn
+2015-03-15 21:11:20,476 [WARN ][main            ][.tgrynchuk.lab5logger.TestLogger] - []warning
+2015-03-15 21:14:30,106 [WARN ][main            ][.tgrynchuk.lab5logger.TestLogger] - []warning
+2015-03-15 21:14:31,504 [WARN ][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: warn
+2015-03-15 21:14:34,309 [WARN ][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: warn
+2015-03-15 21:15:59,688 [WARN ][main            ][.tgrynchuk.lab5logger.TestLogger] - []warning
+2015-03-15 21:18:54,843 [WARN ][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: warn
+2015-03-15 21:19:41,395 [WARN ][main            ][.tgrynchuk.lab5logger.TestLogger] - []warning
+2015-03-15 21:19:42,809 [WARN ][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: warn
+2015-03-15 21:19:45,798 [WARN ][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: warn
+2015-03-15 21:21:21,309 [WARN ][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: warn
+2015-03-15 21:24:34,689 [WARN ][main            ][.tgrynchuk.lab5logger.TestLogger] - []warning
+2015-03-15 21:25:03,139 [WARN ][main            ][.tgrynchuk.lab5logger.TestLogger] - []warning
+2015-03-15 21:25:05,055 [WARN ][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: warn
+2015-03-15 21:25:08,452 [WARN ][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: warn
+2015-03-15 21:25:48,178 [WARN ][main            ][.tgrynchuk.lab5logger.TestLogger] - []warning
+2015-03-15 21:26:21,979 [WARN ][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: warn
+2015-03-15 21:26:22,735 [WARN ][main            ][.tgrynchuk.lab5logger.TestLogger] - []warning
+2015-03-15 21:26:52,324 [WARN ][main            ][.tgrynchuk.lab5logger.TestLogger] - []warning
+2015-03-15 21:26:53,997 [WARN ][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: warn
+2015-03-15 21:26:57,371 [WARN ][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: warn
+2015-03-15 21:28:07,117 [WARN ][main            ][.tgrynchuk.lab5logger.TestLogger] - []warning
+2015-03-15 21:28:08,830 [WARN ][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: warn
+2015-03-15 21:28:12,057 [WARN ][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: warn
+2015-03-15 21:33:04,904 [WARN ][main            ][.tgrynchuk.lab5logger.TestLogger] - []warning
+2015-03-15 21:34:34,842 [WARN ][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: warn
+2015-03-15 21:35:48,506 [WARN ][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: warn
+2015-03-15 21:36:06,587 [WARN ][main            ][.tgrynchuk.lab5logger.TestLogger] - []warning
+2015-03-15 21:36:09,318 [WARN ][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: warn
+2015-03-15 21:36:10,857 [WARN ][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: warn
+2015-03-15 21:36:23,265 [WARN ][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: warn
+2015-03-15 21:38:43,976 [WARN ][main            ][.tgrynchuk.lab5logger.TestLogger] - []warning
+2015-03-15 21:38:46,207 [WARN ][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: warn
+2015-03-15 21:38:47,598 [WARN ][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: warn
+2015-03-15 21:38:57,659 [WARN ][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: warn
+2015-03-15 21:41:21,653 [WARN ][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: warn
+2015-03-15 21:43:00,523 [WARN ][main            ][.tgrynchuk.lab5logger.TestLogger] - []warning
+2015-03-15 21:43:05,661 [WARN ][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: warn
+2015-03-15 21:43:43,446 [WARN ][main            ][.tgrynchuk.lab5logger.TestLogger] - []warning
+2015-03-15 21:46:22,419 [WARN ][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: warn
+2015-03-15 21:46:51,789 [WARN ][main            ][.tgrynchuk.lab5logger.TestLogger] - []warning
+2015-03-15 21:46:55,097 [WARN ][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: warn
+2015-03-15 21:46:56,458 [WARN ][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: warn
+2015-03-15 21:47:48,786 [WARN ][main            ][.tgrynchuk.lab5logger.TestLogger] - []warning
+2015-03-15 21:53:01,840 [WARN ][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: warn
+2015-03-15 21:53:46,343 [WARN ][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: warn
+2015-03-15 21:54:36,535 [WARN ][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: warn
+2015-03-15 21:55:50,456 [WARN ][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: warn
+2015-03-15 21:56:25,307 [WARN ][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: warn
+2015-03-15 21:57:49,116 [WARN ][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: warn
+2015-03-15 22:03:12,741 [WARN ][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: warn
+2015-03-15 22:11:38,343 [WARN ][main            ][.tgrynchuk.lab5logger.TestLogger] - []warning
+2015-03-15 22:11:54,858 [WARN ][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: warn
+2015-03-15 22:11:57,027 [WARN ][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: warn
+2015-03-15 22:13:08,315 [WARN ][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: warn
+2015-03-15 22:13:56,538 [WARN ][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: warn
+2015-03-15 22:16:43,777 [WARN ][main            ][.tgrynchuk.lab5logger.TestLogger] - []warning
+2015-03-15 22:16:50,833 [WARN ][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: warn
+2015-03-15 22:16:54,246 [WARN ][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: warn
+2015-03-15 22:17:49,529 [WARN ][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: warn
+2015-03-15 23:10:28,962 [WARN ][main            ][.tgrynchuk.lab5logger.TestLogger] - []warning
+2015-03-15 23:10:44,403 [WARN ][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: warn
+2015-03-15 23:10:46,764 [WARN ][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: warn
+2015-03-15 23:14:39,519 [WARN ][main            ][.tgrynchuk.lab5logger.TestLogger] - []warning
+2015-03-15 23:14:47,302 [WARN ][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: warn
+2015-03-15 23:14:54,975 [WARN ][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: warn
+2015-03-16 16:04:23,698 [WARN ][main            ][.tgrynchuk.lab5logger.TestLogger] - []warning
+2015-03-16 16:04:30,281 [WARN ][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: warn
+2015-03-16 16:04:33,699 [WARN ][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: warn
+2015-03-16 18:47:45,378 [WARN ][main            ][.tgrynchuk.lab5logger.TestLogger] - []warning
+2015-03-16 18:47:54,085 [WARN ][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: warn
+2015-03-16 18:47:58,013 [WARN ][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: warn
+2015-03-16 18:48:34,064 [WARN ][main            ][.tgrynchuk.lab5logger.TestLogger] - []warning
+2015-03-16 18:48:38,356 [WARN ][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: warn
+2015-03-16 18:48:41,505 [WARN ][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: warn
+2015-03-16 18:49:31,911 [WARN ][main            ][.tgrynchuk.lab5logger.TestLogger] - []warning
+2015-03-16 18:49:36,704 [WARN ][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: warn
+2015-03-16 18:49:40,031 [WARN ][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: warn
+2015-06-02 23:52:42,118 [WARN ][main            ][.tgrynchuk.lab5logger.TestLogger] - []warning
+2015-06-02 23:52:58,308 [WARN ][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: warn
+2015-06-02 23:53:06,227 [WARN ][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: warn

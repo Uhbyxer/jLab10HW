@@ -1,0 +1,540 @@
+2015-03-15 19:25:17,754 [ERROR][main            ][.tgrynchuk.lab5logger.TestLogger] - [a]error in a
+2015-03-15 19:25:17,754 [ERROR][main            ][.tgrynchuk.lab5logger.TestLogger] - [a b]error in b
+2015-03-15 19:25:17,754 [ERROR][main            ][.tgrynchuk.lab5logger.TestLogger] - []some error
+2015-03-15 19:25:17,754 [DEBUG][main            ][.tgrynchuk.lab5logger.TestLogger] - []DEBUG!!!
+2015-03-15 19:25:17,764 [ERROR][main            ][.tgrynchuk.lab5logger.TestLogger] - []java.lang.Exception: Some exception
+java.lang.Exception: Some exception
+	at com.epam.tgrynchuk.lab5logger.TestLogger.main(TestLogger.java:21)
+2015-03-15 19:25:17,764 [INFO ][main            ][.tgrynchuk.lab5logger.TestLogger] - []Info!!!!!!!!!!!!!!!!!!
+2015-03-15 19:25:17,764 [TRACE][main            ][.tgrynchuk.lab5logger.TestLogger] - []tracing....
+2015-03-15 19:25:17,764 [WARN ][main            ][.tgrynchuk.lab5logger.TestLogger] - []warning
+2015-03-15 19:25:17,764 [FATAL][main            ][.tgrynchuk.lab5logger.TestLogger] - []Fatality !!!
+2015-03-15 19:25:17,764 [TRACE][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test  filters: trace
+2015-03-15 19:25:17,764 [DEBUG][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test  filters: debug
+2015-03-15 19:25:17,764 [INFO ][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: info
+2015-03-15 19:25:17,764 [WARN ][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: warn
+2015-03-15 19:25:17,764 [ERROR][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: error
+2015-03-15 19:25:17,764 [FATAL][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: fatal
+2015-03-15 19:25:17,774 [TRACE][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: trace
+2015-03-15 19:25:17,774 [DEBUG][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: debug
+2015-03-15 19:25:17,774 [INFO ][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: info
+2015-03-15 19:25:17,774 [WARN ][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: warn
+2015-03-15 19:25:17,774 [ERROR][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: error
+2015-03-15 19:25:17,774 [FATAL][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: fatal
+2015-03-15 19:27:06,799 [ERROR][main            ][.tgrynchuk.lab5logger.TestLogger] - [a]error in a
+2015-03-15 19:27:06,800 [ERROR][main            ][.tgrynchuk.lab5logger.TestLogger] - [a b]error in b
+2015-03-15 19:27:06,801 [ERROR][main            ][.tgrynchuk.lab5logger.TestLogger] - []some error
+2015-03-15 19:27:06,802 [ERROR][main            ][.tgrynchuk.lab5logger.TestLogger] - []java.lang.Exception: Some exception
+java.lang.Exception: Some exception
+	at com.epam.tgrynchuk.lab5logger.TestLogger.main(TestLogger.java:21)
+2015-03-15 19:27:06,807 [INFO ][main            ][.tgrynchuk.lab5logger.TestLogger] - []Info!!!!!!!!!!!!!!!!!!
+2015-03-15 19:27:06,809 [WARN ][main            ][.tgrynchuk.lab5logger.TestLogger] - []warning
+2015-03-15 19:27:06,812 [FATAL][main            ][.tgrynchuk.lab5logger.TestLogger] - []Fatality !!!
+2015-03-15 19:27:06,813 [INFO ][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: info
+2015-03-15 19:27:06,813 [WARN ][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: warn
+2015-03-15 19:27:06,813 [ERROR][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: error
+2015-03-15 19:27:06,813 [FATAL][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: fatal
+2015-03-15 19:27:06,813 [INFO ][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: info
+2015-03-15 19:27:06,814 [WARN ][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: warn
+2015-03-15 19:27:06,814 [ERROR][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: error
+2015-03-15 19:27:06,814 [FATAL][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: fatal
+2015-03-15 19:27:29,538 [ERROR][main            ][.tgrynchuk.lab5logger.TestLogger] - [a]error in a
+2015-03-15 19:27:29,538 [ERROR][main            ][.tgrynchuk.lab5logger.TestLogger] - [a b]error in b
+2015-03-15 19:27:29,538 [ERROR][main            ][.tgrynchuk.lab5logger.TestLogger] - []some error
+2015-03-15 19:27:29,538 [ERROR][main            ][.tgrynchuk.lab5logger.TestLogger] - []java.lang.Exception: Some exception
+java.lang.Exception: Some exception
+	at com.epam.tgrynchuk.lab5logger.TestLogger.main(TestLogger.java:21)
+2015-03-15 19:27:29,538 [INFO ][main            ][.tgrynchuk.lab5logger.TestLogger] - []Info!!!!!!!!!!!!!!!!!!
+2015-03-15 19:27:29,538 [WARN ][main            ][.tgrynchuk.lab5logger.TestLogger] - []warning
+2015-03-15 19:27:29,538 [FATAL][main            ][.tgrynchuk.lab5logger.TestLogger] - []Fatality !!!
+2015-03-15 19:27:29,548 [INFO ][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: info
+2015-03-15 19:27:29,548 [WARN ][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: warn
+2015-03-15 19:27:29,548 [ERROR][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: error
+2015-03-15 19:27:29,548 [FATAL][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: fatal
+2015-03-15 19:27:29,548 [INFO ][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: info
+2015-03-15 19:27:29,548 [WARN ][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: warn
+2015-03-15 19:27:29,548 [ERROR][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: error
+2015-03-15 19:27:29,548 [FATAL][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: fatal
+2015-03-15 19:58:01,038 [ERROR][main            ][.tgrynchuk.lab5logger.TestLogger] - [a]error in a
+2015-03-15 19:58:01,038 [ERROR][main            ][.tgrynchuk.lab5logger.TestLogger] - [a b]error in b
+2015-03-15 19:58:01,038 [ERROR][main            ][.tgrynchuk.lab5logger.TestLogger] - []some error
+2015-03-15 19:58:01,048 [ERROR][main            ][.tgrynchuk.lab5logger.TestLogger] - []java.lang.Exception: Some exception
+java.lang.Exception: Some exception
+	at com.epam.tgrynchuk.lab5logger.TestLogger.main(TestLogger.java:21)
+2015-03-15 19:58:01,048 [INFO ][main            ][.tgrynchuk.lab5logger.TestLogger] - []Info!!!!!!!!!!!!!!!!!!
+2015-03-15 19:58:01,048 [WARN ][main            ][.tgrynchuk.lab5logger.TestLogger] - []warning
+2015-03-15 19:58:01,048 [FATAL][main            ][.tgrynchuk.lab5logger.TestLogger] - []Fatality !!!
+2015-03-15 19:58:01,048 [INFO ][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: info
+2015-03-15 19:58:01,048 [WARN ][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: warn
+2015-03-15 19:58:01,048 [ERROR][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: error
+2015-03-15 19:58:01,048 [FATAL][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: fatal
+2015-03-15 19:58:01,048 [INFO ][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: info
+2015-03-15 19:58:01,048 [WARN ][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: warn
+2015-03-15 19:58:01,048 [ERROR][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: error
+2015-03-15 19:58:01,048 [FATAL][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: fatal
+2015-03-15 19:58:22,664 [ERROR][main            ][.tgrynchuk.lab5logger.TestLogger] - [a]error in a
+2015-03-15 19:58:22,674 [ERROR][main            ][.tgrynchuk.lab5logger.TestLogger] - [a b]error in b
+2015-03-15 19:58:22,674 [ERROR][main            ][.tgrynchuk.lab5logger.TestLogger] - []some error
+2015-03-15 19:58:22,674 [ERROR][main            ][.tgrynchuk.lab5logger.TestLogger] - []java.lang.Exception: Some exception
+java.lang.Exception: Some exception
+	at com.epam.tgrynchuk.lab5logger.TestLogger.main(TestLogger.java:21)
+2015-03-15 19:58:22,674 [INFO ][main            ][.tgrynchuk.lab5logger.TestLogger] - []Info!!!!!!!!!!!!!!!!!!
+2015-03-15 19:58:22,674 [WARN ][main            ][.tgrynchuk.lab5logger.TestLogger] - []warning
+2015-03-15 19:58:22,674 [FATAL][main            ][.tgrynchuk.lab5logger.TestLogger] - []Fatality !!!
+2015-03-15 19:58:22,674 [INFO ][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: info
+2015-03-15 19:58:22,674 [WARN ][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: warn
+2015-03-15 19:58:22,674 [ERROR][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: error
+2015-03-15 19:58:22,674 [FATAL][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: fatal
+2015-03-15 19:58:22,674 [INFO ][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: info
+2015-03-15 19:58:22,684 [WARN ][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: warn
+2015-03-15 19:58:22,684 [ERROR][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: error
+2015-03-15 19:58:22,684 [FATAL][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: fatal
+2015-03-15 20:05:31,387 [ERROR][main            ][.tgrynchuk.lab5logger.TestLogger] - [a]error in a
+2015-03-15 20:05:50,504 [ERROR][main            ][.tgrynchuk.lab5logger.TestLogger] - [a]error in a
+2015-03-15 20:05:53,774 [ERROR][main            ][.tgrynchuk.lab5logger.TestLogger] - [a b]error in b
+2015-03-15 20:06:11,826 [ERROR][main            ][.tgrynchuk.lab5logger.TestLogger] - [a b]error in b
+2015-03-15 20:06:14,793 [ERROR][main            ][.tgrynchuk.lab5logger.TestLogger] - []some error
+2015-03-15 20:06:32,837 [ERROR][main            ][.tgrynchuk.lab5logger.TestLogger] - []some error
+2015-03-15 20:06:35,807 [ERROR][main            ][.tgrynchuk.lab5logger.TestLogger] - []java.lang.Exception: Some exception
+java.lang.Exception: Some exception
+	at com.epam.tgrynchuk.lab5logger.TestLogger.main(TestLogger.java:22)
+2015-03-15 20:06:56,966 [INFO ][main            ][.tgrynchuk.lab5logger.TestLogger] - []Info!!!!!!!!!!!!!!!!!!
+2015-03-15 20:06:56,966 [WARN ][main            ][.tgrynchuk.lab5logger.TestLogger] - []warning
+2015-03-15 20:06:53,864 [ERROR][main            ][.tgrynchuk.lab5logger.TestLogger] - []java.lang.Exception: Some exception
+java.lang.Exception: Some exception
+	at com.epam.tgrynchuk.lab5logger.TestLogger.main(TestLogger.java:22)
+2015-03-15 20:07:14,891 [INFO ][main            ][.tgrynchuk.lab5logger.TestLogger] - []Info!!!!!!!!!!!!!!!!!!
+2015-03-15 20:07:14,893 [WARN ][main            ][.tgrynchuk.lab5logger.TestLogger] - []warning
+2015-03-15 20:06:56,966 [FATAL][main            ][.tgrynchuk.lab5logger.TestLogger] - []Fatality !!!
+2015-03-15 20:07:18,025 [INFO ][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: info
+2015-03-15 20:07:18,025 [WARN ][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: warn
+2015-03-15 20:07:14,893 [FATAL][main            ][.tgrynchuk.lab5logger.TestLogger] - []Fatality !!!
+2015-03-15 20:07:35,897 [INFO ][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: info
+2015-03-15 20:07:35,899 [WARN ][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: warn
+2015-03-15 20:07:18,025 [ERROR][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: error
+2015-03-15 20:07:35,899 [ERROR][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: error
+2015-03-15 20:07:39,035 [FATAL][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: fatal
+2015-03-15 20:08:00,048 [INFO ][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: info
+2015-03-15 20:08:00,048 [WARN ][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: warn
+2015-03-15 20:07:56,915 [FATAL][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: fatal
+2015-03-15 20:08:17,971 [INFO ][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: info
+2015-03-15 20:08:17,972 [WARN ][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: warn
+2015-03-15 20:08:00,048 [ERROR][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: error
+2015-03-15 20:08:17,972 [ERROR][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: error
+2015-03-15 20:08:21,090 [FATAL][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: fatal
+2015-03-15 20:08:38,976 [FATAL][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: fatal
+2015-03-15 20:13:15,002 [ERROR][main            ][.tgrynchuk.lab5logger.TestLogger] - [a]error in a
+2015-03-15 20:13:36,444 [ERROR][main            ][.tgrynchuk.lab5logger.TestLogger] - [a b]error in b
+2015-03-15 20:13:57,464 [ERROR][main            ][.tgrynchuk.lab5logger.TestLogger] - []some error
+2015-03-15 20:14:18,481 [ERROR][main            ][.tgrynchuk.lab5logger.TestLogger] - []java.lang.Exception: Some exception
+java.lang.Exception: Some exception
+	at com.epam.tgrynchuk.lab5logger.TestLogger.main(TestLogger.java:22)
+2015-03-15 20:14:39,590 [INFO ][main            ][.tgrynchuk.lab5logger.TestLogger] - []Info!!!!!!!!!!!!!!!!!!
+2015-03-15 20:14:39,590 [WARN ][main            ][.tgrynchuk.lab5logger.TestLogger] - []warning
+2015-03-15 20:14:39,590 [FATAL][main            ][.tgrynchuk.lab5logger.TestLogger] - []Fatality !!!
+2015-03-15 20:15:00,676 [INFO ][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: info
+2015-03-15 20:15:00,676 [WARN ][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: warn
+2015-03-15 20:15:00,676 [ERROR][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: error
+2015-03-15 20:15:21,690 [FATAL][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: fatal
+2015-03-15 20:15:42,719 [INFO ][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: info
+2015-03-15 20:15:42,719 [WARN ][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: warn
+2015-03-15 20:15:42,719 [ERROR][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: error
+2015-03-15 20:16:03,723 [FATAL][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: fatal
+2015-03-15 20:29:00,727 [ERROR][main            ][.tgrynchuk.lab5logger.TestLogger] - [a]error in a
+2015-03-15 20:29:21,937 [ERROR][main            ][.tgrynchuk.lab5logger.TestLogger] - [a b]error in b
+2015-03-15 20:29:42,948 [ERROR][main            ][.tgrynchuk.lab5logger.TestLogger] - []some error
+2015-03-15 20:30:03,974 [ERROR][main            ][.tgrynchuk.lab5logger.TestLogger] - []java.lang.Exception: Some exception
+java.lang.Exception: Some exception
+	at com.epam.tgrynchuk.lab5logger.TestLogger.main(TestLogger.java:22)
+2015-03-15 20:30:25,102 [INFO ][main            ][.tgrynchuk.lab5logger.TestLogger] - []Info!!!!!!!!!!!!!!!!!!
+2015-03-15 20:30:25,133 [WARN ][main            ][.tgrynchuk.lab5logger.TestLogger] - []warning
+2015-03-15 20:28:27,019 [ERROR][main            ][.tgrynchuk.lab5logger.TestLogger] - [a]error in a
+2015-03-15 20:31:13,258 [ERROR][main            ][.tgrynchuk.lab5logger.TestLogger] - [a]error in a
+2015-03-15 20:35:56,411 [ERROR][main            ][.tgrynchuk.lab5logger.TestLogger] - [a]error in a
+2015-03-15 20:38:40,891 [ERROR][main            ][.tgrynchuk.lab5logger.TestLogger] - [a b]error in b
+2015-03-15 20:41:14,009 [ERROR][main            ][.tgrynchuk.lab5logger.TestLogger] - [a b]error in b
+2015-03-15 20:44:29,701 [ERROR][main            ][.tgrynchuk.lab5logger.TestLogger] - [a]error in a
+2015-03-15 20:45:38,973 [ERROR][main            ][.tgrynchuk.lab5logger.TestLogger] - [a]error in a
+2015-03-15 20:45:56,778 [ERROR][main            ][.tgrynchuk.lab5logger.TestLogger] - [a b]error in b
+2015-03-15 20:46:15,618 [ERROR][main            ][.tgrynchuk.lab5logger.TestLogger] - [a]error in a
+2015-03-15 20:48:44,577 [ERROR][main            ][.tgrynchuk.lab5logger.TestLogger] - []some error
+2015-03-15 20:51:14,243 [ERROR][main            ][.tgrynchuk.lab5logger.TestLogger] - []some error
+2015-03-15 20:53:01,880 [ERROR][main            ][.tgrynchuk.lab5logger.TestLogger] - [a]error in a
+2015-03-15 20:54:30,383 [ERROR][main            ][.tgrynchuk.lab5logger.TestLogger] - [a b]error in b
+2015-03-15 20:55:39,571 [ERROR][main            ][.tgrynchuk.lab5logger.TestLogger] - [a b]error in b
+2015-03-15 20:55:56,883 [ERROR][main            ][.tgrynchuk.lab5logger.TestLogger] - []some error
+2015-03-15 20:56:15,838 [ERROR][main            ][.tgrynchuk.lab5logger.TestLogger] - [a b]error in b
+2015-03-15 20:58:44,986 [ERROR][main            ][.tgrynchuk.lab5logger.TestLogger] - []java.lang.Exception: Some exception
+java.lang.Exception: Some exception
+	at com.epam.tgrynchuk.lab5logger.TestLogger.main(TestLogger.java:22)
+2015-03-15 21:08:45,501 [INFO ][main            ][.tgrynchuk.lab5logger.TestLogger] - []Info!!!!!!!!!!!!!!!!!!
+2015-03-15 21:08:45,862 [WARN ][main            ][.tgrynchuk.lab5logger.TestLogger] - []warning
+2015-03-15 21:10:09,761 [ERROR][main            ][.tgrynchuk.lab5logger.TestLogger] - [a]error in a
+2015-03-15 21:10:16,442 [ERROR][main            ][.tgrynchuk.lab5logger.TestLogger] - [a b]error in b
+2015-03-15 21:10:17,210 [ERROR][main            ][.tgrynchuk.lab5logger.TestLogger] - []some error
+2015-03-15 21:10:18,276 [ERROR][main            ][.tgrynchuk.lab5logger.TestLogger] - []java.lang.Exception: Some exception
+java.lang.Exception: Some exception
+	at com.epam.tgrynchuk.lab5logger.TestLogger.main(TestLogger.java:36)
+2015-03-15 21:10:18,870 [INFO ][main            ][.tgrynchuk.lab5logger.TestLogger] - []Info!!!!!!!!!!!!!!!!!!
+2015-03-15 21:10:18,872 [WARN ][main            ][.tgrynchuk.lab5logger.TestLogger] - []warning
+2015-03-15 21:10:18,872 [FATAL][main            ][.tgrynchuk.lab5logger.TestLogger] - []Fatality !!!
+2015-03-15 21:10:20,932 [INFO ][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: info
+2015-03-15 21:10:20,942 [WARN ][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: warn
+2015-03-15 21:10:20,942 [ERROR][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: error
+2015-03-15 21:10:21,649 [FATAL][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: fatal
+2015-03-15 21:10:22,208 [INFO ][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: info
+2015-03-15 21:10:22,208 [WARN ][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: warn
+2015-03-15 21:10:22,208 [ERROR][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: error
+2015-03-15 21:10:22,762 [FATAL][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: fatal
+2015-03-15 21:01:14,364 [ERROR][main            ][.tgrynchuk.lab5logger.TestLogger] - []java.lang.Exception: Some exception
+java.lang.Exception: Some exception
+	at com.epam.tgrynchuk.lab5logger.TestLogger.main(TestLogger.java:22)
+2015-03-15 21:11:14,501 [INFO ][main            ][.tgrynchuk.lab5logger.TestLogger] - []Info!!!!!!!!!!!!!!!!!!
+2015-03-15 21:11:20,476 [WARN ][main            ][.tgrynchuk.lab5logger.TestLogger] - []warning
+2015-03-15 21:02:58,183 [ERROR][main            ][.tgrynchuk.lab5logger.TestLogger] - [a]error in a
+2015-03-15 21:03:02,733 [ERROR][main            ][.tgrynchuk.lab5logger.TestLogger] - [a b]error in b
+2015-03-15 21:03:40,002 [ERROR][main            ][.tgrynchuk.lab5logger.TestLogger] - [a]error in a
+2015-03-15 21:14:19,831 [ERROR][main            ][.tgrynchuk.lab5logger.TestLogger] - [a]error in a
+2015-03-15 21:14:25,771 [ERROR][main            ][.tgrynchuk.lab5logger.TestLogger] - [a b]error in b
+2015-03-15 21:14:27,176 [ERROR][main            ][.tgrynchuk.lab5logger.TestLogger] - []some error
+2015-03-15 21:14:28,726 [ERROR][main            ][.tgrynchuk.lab5logger.TestLogger] - []java.lang.Exception: Some exception
+java.lang.Exception: Some exception
+	at com.epam.tgrynchuk.lab5logger.TestLogger.main(TestLogger.java:36)
+2015-03-15 21:14:30,106 [INFO ][main            ][.tgrynchuk.lab5logger.TestLogger] - []Info!!!!!!!!!!!!!!!!!!
+2015-03-15 21:14:30,106 [WARN ][main            ][.tgrynchuk.lab5logger.TestLogger] - []warning
+2015-03-15 21:14:30,106 [FATAL][main            ][.tgrynchuk.lab5logger.TestLogger] - []Fatality !!!
+2015-03-15 21:14:31,503 [INFO ][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: info
+2015-03-15 21:14:31,504 [WARN ][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: warn
+2015-03-15 21:04:30,558 [ERROR][main            ][.tgrynchuk.lab5logger.TestLogger] - []some error
+2015-03-15 21:14:31,504 [ERROR][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: error
+2015-03-15 21:14:32,885 [FATAL][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: fatal
+2015-03-15 21:14:34,309 [INFO ][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: info
+2015-03-15 21:14:34,309 [WARN ][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: warn
+2015-03-15 21:14:34,309 [ERROR][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: error
+2015-03-15 21:14:35,588 [FATAL][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: fatal
+2015-03-15 21:05:39,699 [ERROR][main            ][.tgrynchuk.lab5logger.TestLogger] - []some error
+2015-03-15 21:05:57,371 [ERROR][main            ][.tgrynchuk.lab5logger.TestLogger] - []java.lang.Exception: Some exception
+java.lang.Exception: Some exception
+	at com.epam.tgrynchuk.lab5logger.TestLogger.main(TestLogger.java:22)
+2015-03-15 21:15:59,238 [INFO ][main            ][.tgrynchuk.lab5logger.TestLogger] - []Info!!!!!!!!!!!!!!!!!!
+2015-03-15 21:15:59,688 [WARN ][main            ][.tgrynchuk.lab5logger.TestLogger] - []warning
+2015-03-15 21:06:15,944 [ERROR][main            ][.tgrynchuk.lab5logger.TestLogger] - []some error
+2015-03-15 21:07:43,774 [ERROR][main            ][.tgrynchuk.lab5logger.TestLogger] - [a]error in a
+2015-03-15 21:08:45,872 [FATAL][main            ][.tgrynchuk.lab5logger.TestLogger] - []Fatality !!!
+2015-03-15 21:18:54,281 [INFO ][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: info
+2015-03-15 21:18:54,843 [WARN ][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: warn
+2015-03-15 21:19:34,374 [ERROR][main            ][.tgrynchuk.lab5logger.TestLogger] - [a]error in a
+2015-03-15 21:19:37,162 [ERROR][main            ][.tgrynchuk.lab5logger.TestLogger] - [a b]error in b
+2015-03-15 21:19:38,574 [ERROR][main            ][.tgrynchuk.lab5logger.TestLogger] - []some error
+2015-03-15 21:19:40,097 [ERROR][main            ][.tgrynchuk.lab5logger.TestLogger] - []java.lang.Exception: Some exception
+java.lang.Exception: Some exception
+	at com.epam.tgrynchuk.lab5logger.TestLogger.main(TestLogger.java:36)
+2015-03-15 21:19:41,395 [INFO ][main            ][.tgrynchuk.lab5logger.TestLogger] - []Info!!!!!!!!!!!!!!!!!!
+2015-03-15 21:19:41,395 [WARN ][main            ][.tgrynchuk.lab5logger.TestLogger] - []warning
+2015-03-15 21:19:41,395 [FATAL][main            ][.tgrynchuk.lab5logger.TestLogger] - []Fatality !!!
+2015-03-15 21:19:42,809 [INFO ][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: info
+2015-03-15 21:19:42,809 [WARN ][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: warn
+2015-03-15 21:19:42,809 [ERROR][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: error
+2015-03-15 21:19:44,297 [FATAL][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: fatal
+2015-03-15 21:19:45,798 [INFO ][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: info
+2015-03-15 21:19:45,798 [WARN ][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: warn
+2015-03-15 21:19:45,798 [ERROR][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: error
+2015-03-15 21:19:47,102 [FATAL][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: fatal
+2015-03-15 21:11:20,477 [FATAL][main            ][.tgrynchuk.lab5logger.TestLogger] - []Fatality !!!
+2015-03-15 21:21:21,309 [INFO ][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: info
+2015-03-15 21:21:21,309 [WARN ][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: warn
+2015-03-15 21:12:58,543 [ERROR][main            ][.tgrynchuk.lab5logger.TestLogger] - [a b]error in b
+2015-03-15 21:13:02,920 [ERROR][main            ][.tgrynchuk.lab5logger.TestLogger] - []some error
+2015-03-15 21:13:41,876 [ERROR][main            ][.tgrynchuk.lab5logger.TestLogger] - [a b]error in b
+2015-03-15 21:14:32,956 [ERROR][main            ][.tgrynchuk.lab5logger.TestLogger] - []java.lang.Exception: Some exception
+java.lang.Exception: Some exception
+	at com.epam.tgrynchuk.lab5logger.TestLogger.main(TestLogger.java:22)
+2015-03-15 21:24:34,265 [INFO ][main            ][.tgrynchuk.lab5logger.TestLogger] - []Info!!!!!!!!!!!!!!!!!!
+2015-03-15 21:24:34,689 [WARN ][main            ][.tgrynchuk.lab5logger.TestLogger] - []warning
+2015-03-15 21:24:55,354 [ERROR][main            ][.tgrynchuk.lab5logger.TestLogger] - [a]error in a
+2015-03-15 21:24:58,449 [ERROR][main            ][.tgrynchuk.lab5logger.TestLogger] - [a b]error in b
+2015-03-15 21:24:59,985 [ERROR][main            ][.tgrynchuk.lab5logger.TestLogger] - []some error
+2015-03-15 21:25:01,560 [ERROR][main            ][.tgrynchuk.lab5logger.TestLogger] - []java.lang.Exception: Some exception
+java.lang.Exception: Some exception
+	at com.epam.tgrynchuk.lab5logger.TestLogger.main(TestLogger.java:36)
+2015-03-15 21:25:03,129 [INFO ][main            ][.tgrynchuk.lab5logger.TestLogger] - []Info!!!!!!!!!!!!!!!!!!
+2015-03-15 21:25:03,139 [WARN ][main            ][.tgrynchuk.lab5logger.TestLogger] - []warning
+2015-03-15 21:25:03,139 [FATAL][main            ][.tgrynchuk.lab5logger.TestLogger] - []Fatality !!!
+2015-03-15 21:25:05,055 [INFO ][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: info
+2015-03-15 21:25:05,055 [WARN ][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: warn
+2015-03-15 21:25:05,055 [ERROR][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: error
+2015-03-15 21:25:06,563 [FATAL][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: fatal
+2015-03-15 21:25:08,451 [INFO ][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: info
+2015-03-15 21:25:08,452 [WARN ][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: warn
+2015-03-15 21:25:08,452 [ERROR][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: error
+2015-03-15 21:25:10,494 [FATAL][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: fatal
+2015-03-15 21:15:44,869 [ERROR][main            ][.tgrynchuk.lab5logger.TestLogger] - []java.lang.Exception: Some exception
+java.lang.Exception: Some exception
+	at com.epam.tgrynchuk.lab5logger.TestLogger.main(TestLogger.java:22)
+2015-03-15 21:25:47,700 [INFO ][main            ][.tgrynchuk.lab5logger.TestLogger] - []Info!!!!!!!!!!!!!!!!!!
+2015-03-15 21:25:48,178 [WARN ][main            ][.tgrynchuk.lab5logger.TestLogger] - []warning
+2015-03-15 21:15:59,705 [FATAL][main            ][.tgrynchuk.lab5logger.TestLogger] - []Fatality !!!
+2015-03-15 21:16:18,202 [ERROR][main            ][.tgrynchuk.lab5logger.TestLogger] - []java.lang.Exception: Some exception
+java.lang.Exception: Some exception
+	at com.epam.tgrynchuk.lab5logger.TestLogger.main(TestLogger.java:22)
+2015-03-15 21:26:21,979 [INFO ][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: info
+2015-03-15 21:26:21,979 [WARN ][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: warn
+2015-03-15 21:26:21,979 [INFO ][main            ][.tgrynchuk.lab5logger.TestLogger] - []Info!!!!!!!!!!!!!!!!!!
+2015-03-15 21:26:22,735 [WARN ][main            ][.tgrynchuk.lab5logger.TestLogger] - []warning
+2015-03-15 21:26:44,200 [ERROR][main            ][.tgrynchuk.lab5logger.TestLogger] - [a]error in a
+2015-03-15 21:26:47,322 [ERROR][main            ][.tgrynchuk.lab5logger.TestLogger] - [a b]error in b
+2015-03-15 21:26:48,882 [ERROR][main            ][.tgrynchuk.lab5logger.TestLogger] - []some error
+2015-03-15 21:26:50,662 [ERROR][main            ][.tgrynchuk.lab5logger.TestLogger] - []java.lang.Exception: Some exception
+java.lang.Exception: Some exception
+	at com.epam.tgrynchuk.lab5logger.TestLogger.main(TestLogger.java:36)
+2015-03-15 21:26:52,323 [INFO ][main            ][.tgrynchuk.lab5logger.TestLogger] - []Info!!!!!!!!!!!!!!!!!!
+2015-03-15 21:26:52,324 [WARN ][main            ][.tgrynchuk.lab5logger.TestLogger] - []warning
+2015-03-15 21:26:52,324 [FATAL][main            ][.tgrynchuk.lab5logger.TestLogger] - []Fatality !!!
+2015-03-15 21:26:53,997 [INFO ][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: info
+2015-03-15 21:26:53,997 [WARN ][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: warn
+2015-03-15 21:26:53,997 [ERROR][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: error
+2015-03-15 21:26:55,753 [FATAL][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: fatal
+2015-03-15 21:26:57,371 [INFO ][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: info
+2015-03-15 21:26:57,371 [WARN ][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: warn
+2015-03-15 21:26:57,371 [ERROR][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: error
+2015-03-15 21:26:59,084 [FATAL][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: fatal
+2015-03-15 21:17:46,636 [ERROR][main            ][.tgrynchuk.lab5logger.TestLogger] - [a b]error in b
+2015-03-15 21:27:59,089 [ERROR][main            ][.tgrynchuk.lab5logger.TestLogger] - [a]error in a
+2015-03-15 21:28:01,814 [ERROR][main            ][.tgrynchuk.lab5logger.TestLogger] - [a b]error in b
+2015-03-15 21:28:03,875 [ERROR][main            ][.tgrynchuk.lab5logger.TestLogger] - []some error
+2015-03-15 21:28:05,495 [ERROR][main            ][.tgrynchuk.lab5logger.TestLogger] - []java.lang.Exception: Some exception
+java.lang.Exception: Some exception
+	at com.epam.tgrynchuk.lab5logger.TestLogger.main(TestLogger.java:36)
+2015-03-15 21:28:07,107 [INFO ][main            ][.tgrynchuk.lab5logger.TestLogger] - []Info!!!!!!!!!!!!!!!!!!
+2015-03-15 21:28:07,117 [WARN ][main            ][.tgrynchuk.lab5logger.TestLogger] - []warning
+2015-03-15 21:28:07,117 [FATAL][main            ][.tgrynchuk.lab5logger.TestLogger] - []Fatality !!!
+2015-03-15 21:28:08,830 [INFO ][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: info
+2015-03-15 21:28:08,830 [WARN ][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: warn
+2015-03-15 21:28:08,830 [ERROR][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: error
+2015-03-15 21:28:10,495 [FATAL][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: fatal
+2015-03-15 21:28:12,057 [INFO ][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: info
+2015-03-15 21:28:12,057 [WARN ][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: warn
+2015-03-15 21:28:12,057 [ERROR][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: error
+2015-03-15 21:28:13,666 [FATAL][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: fatal
+2015-03-15 21:18:54,916 [ERROR][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: error
+2015-03-15 21:21:21,309 [ERROR][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: error
+2015-03-15 21:22:58,795 [ERROR][main            ][.tgrynchuk.lab5logger.TestLogger] - []some error
+2015-03-15 21:23:03,838 [ERROR][main            ][.tgrynchuk.lab5logger.TestLogger] - []java.lang.Exception: Some exception
+java.lang.Exception: Some exception
+	at com.epam.tgrynchuk.lab5logger.TestLogger.main(TestLogger.java:22)
+2015-03-15 21:33:04,621 [INFO ][main            ][.tgrynchuk.lab5logger.TestLogger] - []Info!!!!!!!!!!!!!!!!!!
+2015-03-15 21:33:04,904 [WARN ][main            ][.tgrynchuk.lab5logger.TestLogger] - []warning
+2015-03-15 21:23:42,021 [ERROR][main            ][.tgrynchuk.lab5logger.TestLogger] - []some error
+2015-03-15 21:24:34,710 [FATAL][main            ][.tgrynchuk.lab5logger.TestLogger] - []Fatality !!!
+2015-03-15 21:34:34,842 [INFO ][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: info
+2015-03-15 21:34:34,842 [WARN ][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: warn
+2015-03-15 21:25:48,222 [FATAL][main            ][.tgrynchuk.lab5logger.TestLogger] - []Fatality !!!
+2015-03-15 21:35:48,482 [INFO ][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: info
+2015-03-15 21:35:48,506 [WARN ][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: warn
+2015-03-15 21:36:06,587 [ERROR][main            ][.tgrynchuk.lab5logger.TestLogger] - [a]error in a
+2015-03-15 21:36:06,587 [ERROR][main            ][.tgrynchuk.lab5logger.TestLogger] - [a b]error in b
+2015-03-15 21:36:06,587 [ERROR][main            ][.tgrynchuk.lab5logger.TestLogger] - []some error
+2015-03-15 21:36:06,587 [ERROR][main            ][.tgrynchuk.lab5logger.TestLogger] - []java.lang.Exception: Some exception
+java.lang.Exception: Some exception
+	at com.epam.tgrynchuk.lab5logger.TestLogger.main(TestLogger.java:36)
+2015-03-15 21:36:06,587 [INFO ][main            ][.tgrynchuk.lab5logger.TestLogger] - []Info!!!!!!!!!!!!!!!!!!
+2015-03-15 21:36:06,587 [WARN ][main            ][.tgrynchuk.lab5logger.TestLogger] - []warning
+2015-03-15 21:36:06,587 [FATAL][main            ][.tgrynchuk.lab5logger.TestLogger] - []Fatality !!!
+2015-03-15 21:36:09,318 [INFO ][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: info
+2015-03-15 21:36:09,318 [WARN ][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: warn
+2015-03-15 21:36:09,318 [ERROR][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: error
+2015-03-15 21:36:09,328 [FATAL][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: fatal
+2015-03-15 21:36:10,857 [INFO ][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: info
+2015-03-15 21:36:10,857 [WARN ][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: warn
+2015-03-15 21:36:10,857 [ERROR][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: error
+2015-03-15 21:36:10,857 [FATAL][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: fatal
+2015-03-15 21:26:21,979 [ERROR][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: error
+2015-03-15 21:26:22,750 [FATAL][main            ][.tgrynchuk.lab5logger.TestLogger] - []Fatality !!!
+2015-03-15 21:36:23,255 [INFO ][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: info
+2015-03-15 21:36:23,265 [WARN ][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: warn
+2015-03-15 21:27:47,251 [ERROR][main            ][.tgrynchuk.lab5logger.TestLogger] - []some error
+2015-03-15 21:38:43,966 [ERROR][main            ][.tgrynchuk.lab5logger.TestLogger] - [a]error in a
+2015-03-15 21:38:43,966 [ERROR][main            ][.tgrynchuk.lab5logger.TestLogger] - [a b]error in b
+2015-03-15 21:38:43,966 [ERROR][main            ][.tgrynchuk.lab5logger.TestLogger] - []some error
+2015-03-15 21:38:43,966 [ERROR][main            ][.tgrynchuk.lab5logger.TestLogger] - []java.lang.Exception: Some exception
+java.lang.Exception: Some exception
+	at com.epam.tgrynchuk.lab5logger.TestLogger.main(TestLogger.java:36)
+2015-03-15 21:38:43,976 [INFO ][main            ][.tgrynchuk.lab5logger.TestLogger] - []Info!!!!!!!!!!!!!!!!!!
+2015-03-15 21:38:43,976 [WARN ][main            ][.tgrynchuk.lab5logger.TestLogger] - []warning
+2015-03-15 21:38:43,976 [FATAL][main            ][.tgrynchuk.lab5logger.TestLogger] - []Fatality !!!
+2015-03-15 21:38:46,207 [INFO ][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: info
+2015-03-15 21:38:46,207 [WARN ][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: warn
+2015-03-15 21:38:46,207 [ERROR][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: error
+2015-03-15 21:38:46,207 [FATAL][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: fatal
+2015-03-15 21:38:47,588 [INFO ][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: info
+2015-03-15 21:38:47,598 [WARN ][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: warn
+2015-03-15 21:38:47,598 [ERROR][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: error
+2015-03-15 21:38:47,598 [FATAL][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: fatal
+2015-03-15 21:28:57,526 [FATAL][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: fatal
+2015-03-15 21:38:57,659 [INFO ][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: info
+2015-03-15 21:38:57,659 [WARN ][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: warn
+2015-03-15 21:31:21,437 [FATAL][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: fatal
+2015-03-15 21:41:21,652 [INFO ][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: info
+2015-03-15 21:41:21,653 [WARN ][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: warn
+2015-03-15 21:32:59,474 [ERROR][main            ][.tgrynchuk.lab5logger.TestLogger] - []java.lang.Exception: Some exception
+java.lang.Exception: Some exception
+	at com.epam.tgrynchuk.lab5logger.TestLogger.main(TestLogger.java:22)
+2015-03-15 21:42:59,982 [INFO ][main            ][.tgrynchuk.lab5logger.TestLogger] - []Info!!!!!!!!!!!!!!!!!!
+2015-03-15 21:43:00,523 [WARN ][main            ][.tgrynchuk.lab5logger.TestLogger] - []warning
+2015-03-15 21:33:04,924 [FATAL][main            ][.tgrynchuk.lab5logger.TestLogger] - []Fatality !!!
+2015-03-15 21:43:05,237 [INFO ][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: info
+2015-03-15 21:43:05,661 [WARN ][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: warn
+2015-03-15 21:33:42,646 [ERROR][main            ][.tgrynchuk.lab5logger.TestLogger] - []java.lang.Exception: Some exception
+java.lang.Exception: Some exception
+	at com.epam.tgrynchuk.lab5logger.TestLogger.main(TestLogger.java:22)
+2015-03-15 21:43:43,193 [INFO ][main            ][.tgrynchuk.lab5logger.TestLogger] - []Info!!!!!!!!!!!!!!!!!!
+2015-03-15 21:43:43,446 [WARN ][main            ][.tgrynchuk.lab5logger.TestLogger] - []warning
+2015-03-15 21:34:34,842 [ERROR][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: error
+2015-03-15 21:35:48,506 [ERROR][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: error
+2015-03-15 21:36:22,189 [FATAL][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: fatal
+2015-03-15 21:46:22,419 [INFO ][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: info
+2015-03-15 21:46:22,419 [WARN ][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: warn
+2015-03-15 21:36:23,265 [ERROR][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: error
+2015-03-15 21:46:51,779 [ERROR][main            ][.tgrynchuk.lab5logger.TestLogger] - [a]error in a
+2015-03-15 21:46:51,779 [ERROR][main            ][.tgrynchuk.lab5logger.TestLogger] - [a b]error in b
+2015-03-15 21:46:51,779 [ERROR][main            ][.tgrynchuk.lab5logger.TestLogger] - []some error
+2015-03-15 21:46:51,779 [ERROR][main            ][.tgrynchuk.lab5logger.TestLogger] - []java.lang.Exception: Some exception
+java.lang.Exception: Some exception
+	at com.epam.tgrynchuk.lab5logger.TestLogger.main(TestLogger.java:36)
+2015-03-15 21:46:51,789 [INFO ][main            ][.tgrynchuk.lab5logger.TestLogger] - []Info!!!!!!!!!!!!!!!!!!
+2015-03-15 21:46:51,789 [WARN ][main            ][.tgrynchuk.lab5logger.TestLogger] - []warning
+2015-03-15 21:46:51,789 [FATAL][main            ][.tgrynchuk.lab5logger.TestLogger] - []Fatality !!!
+2015-03-15 21:46:55,097 [INFO ][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: info
+2015-03-15 21:46:55,097 [WARN ][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: warn
+2015-03-15 21:46:55,097 [ERROR][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: error
+2015-03-15 21:46:55,097 [FATAL][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: fatal
+2015-03-15 21:46:56,438 [INFO ][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: info
+2015-03-15 21:46:56,458 [WARN ][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: warn
+2015-03-15 21:46:56,458 [ERROR][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: error
+2015-03-15 21:46:56,458 [FATAL][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: fatal
+2015-03-15 21:37:47,877 [ERROR][main            ][.tgrynchuk.lab5logger.TestLogger] - []java.lang.Exception: Some exception
+java.lang.Exception: Some exception
+	at com.epam.tgrynchuk.lab5logger.TestLogger.main(TestLogger.java:22)
+2015-03-15 21:47:48,519 [INFO ][main            ][.tgrynchuk.lab5logger.TestLogger] - []Info!!!!!!!!!!!!!!!!!!
+2015-03-15 21:47:48,786 [WARN ][main            ][.tgrynchuk.lab5logger.TestLogger] - []warning
+2015-03-15 21:38:57,659 [ERROR][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: error
+2015-03-15 21:41:21,653 [ERROR][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: error
+2015-03-15 21:43:00,595 [FATAL][main            ][.tgrynchuk.lab5logger.TestLogger] - []Fatality !!!
+2015-03-15 21:53:01,601 [INFO ][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: info
+2015-03-15 21:53:01,840 [WARN ][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: warn
+2015-03-15 21:43:05,661 [ERROR][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: error
+2015-03-15 21:43:43,446 [FATAL][main            ][.tgrynchuk.lab5logger.TestLogger] - []Fatality !!!
+2015-03-15 21:53:45,949 [INFO ][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: info
+2015-03-15 21:53:46,343 [WARN ][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: warn
+2015-03-15 21:44:35,079 [FATAL][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: fatal
+2015-03-15 21:54:36,326 [INFO ][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: info
+2015-03-15 21:54:36,535 [WARN ][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: warn
+2015-03-15 21:45:48,760 [FATAL][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: fatal
+2015-03-15 21:55:50,284 [INFO ][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: info
+2015-03-15 21:55:50,456 [WARN ][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: warn
+2015-03-15 21:46:22,419 [ERROR][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: error
+2015-03-15 21:46:23,409 [FATAL][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: fatal
+2015-03-15 21:56:24,644 [INFO ][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: info
+2015-03-15 21:56:25,307 [WARN ][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: warn
+2015-03-15 21:47:48,787 [FATAL][main            ][.tgrynchuk.lab5logger.TestLogger] - []Fatality !!!
+2015-03-15 21:57:49,116 [INFO ][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: info
+2015-03-15 21:57:49,116 [WARN ][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: warn
+2015-03-15 21:48:57,811 [FATAL][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: fatal
+2015-03-15 21:51:21,876 [FATAL][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: fatal
+2015-03-15 21:53:01,899 [ERROR][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: error
+2015-03-15 21:53:06,539 [FATAL][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: fatal
+2015-03-15 22:03:11,422 [INFO ][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: info
+2015-03-15 22:03:12,741 [WARN ][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: warn
+2015-03-15 21:53:46,403 [ERROR][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: error
+2015-03-15 21:54:36,545 [ERROR][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: error
+2015-03-15 21:55:50,496 [ERROR][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: error
+2015-03-15 21:56:23,024 [FATAL][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: fatal
+2015-03-15 21:56:25,414 [ERROR][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: error
+2015-03-15 21:57:49,116 [ERROR][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: error
+2015-03-15 22:11:38,229 [ERROR][main            ][.tgrynchuk.lab5logger.TestLogger] - [a]error in a
+2015-03-15 22:11:38,229 [ERROR][main            ][.tgrynchuk.lab5logger.TestLogger] - [a b]error in b
+2015-03-15 22:11:38,229 [ERROR][main            ][.tgrynchuk.lab5logger.TestLogger] - []some error
+2015-03-15 22:11:38,239 [ERROR][main            ][.tgrynchuk.lab5logger.TestLogger] - []java.lang.Exception: Some exception
+java.lang.Exception: Some exception
+	at com.epam.tgrynchuk.lab5logger.TestLogger.main(TestLogger.java:36)
+2015-03-15 22:11:38,343 [INFO ][main            ][.tgrynchuk.lab5logger.TestLogger] - []Info!!!!!!!!!!!!!!!!!!
+2015-03-15 22:11:38,343 [WARN ][main            ][.tgrynchuk.lab5logger.TestLogger] - []warning
+2015-03-15 22:11:38,343 [FATAL][main            ][.tgrynchuk.lab5logger.TestLogger] - []Fatality !!!
+2015-03-15 22:11:54,858 [INFO ][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: info
+2015-03-15 22:11:54,858 [WARN ][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: warn
+2015-03-15 22:11:54,858 [ERROR][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: error
+2015-03-15 22:11:54,858 [FATAL][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: fatal
+2015-03-15 22:11:57,027 [INFO ][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: info
+2015-03-15 22:11:57,027 [WARN ][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: warn
+2015-03-15 22:11:57,027 [ERROR][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: error
+2015-03-15 22:11:57,027 [FATAL][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: fatal
+2015-03-15 22:03:05,309 [FATAL][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: fatal
+2015-03-15 22:13:08,245 [INFO ][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: info
+2015-03-15 22:13:08,315 [WARN ][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: warn
+2015-03-15 22:03:12,851 [ERROR][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: error
+2015-03-15 22:03:50,417 [FATAL][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: fatal
+2015-03-15 22:13:55,394 [INFO ][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: info
+2015-03-15 22:13:56,538 [WARN ][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: warn
+2015-03-15 22:04:38,017 [FATAL][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: fatal
+2015-03-15 22:05:52,859 [FATAL][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: fatal
+2015-03-15 22:06:26,862 [FATAL][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: fatal
+2015-03-15 22:16:43,733 [ERROR][main            ][.tgrynchuk.lab5logger.TestLogger] - [a]error in a
+2015-03-15 22:16:43,735 [ERROR][main            ][.tgrynchuk.lab5logger.TestLogger] - [a b]error in b
+2015-03-15 22:16:43,735 [ERROR][main            ][.tgrynchuk.lab5logger.TestLogger] - []some error
+2015-03-15 22:16:43,737 [ERROR][main            ][.tgrynchuk.lab5logger.TestLogger] - []java.lang.Exception: Some exception
+java.lang.Exception: Some exception
+	at com.epam.tgrynchuk.lab5logger.TestLogger.main(TestLogger.java:36)
+2015-03-15 22:16:43,777 [INFO ][main            ][.tgrynchuk.lab5logger.TestLogger] - []Info!!!!!!!!!!!!!!!!!!
+2015-03-15 22:16:43,777 [WARN ][main            ][.tgrynchuk.lab5logger.TestLogger] - []warning
+2015-03-15 22:16:43,777 [FATAL][main            ][.tgrynchuk.lab5logger.TestLogger] - []Fatality !!!
+2015-03-15 22:16:50,833 [INFO ][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: info
+2015-03-15 22:16:50,833 [WARN ][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: warn
+2015-03-15 22:16:50,833 [ERROR][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: error
+2015-03-15 22:16:50,833 [FATAL][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: fatal
+2015-03-15 22:16:54,236 [INFO ][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: info
+2015-03-15 22:16:54,246 [WARN ][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: warn
+2015-03-15 22:16:54,246 [ERROR][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: error
+2015-03-15 22:16:54,246 [FATAL][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: fatal
+2015-03-15 22:07:49,302 [FATAL][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: fatal
+2015-03-15 22:17:49,519 [INFO ][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: info
+2015-03-15 22:17:49,529 [WARN ][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: warn
+2015-03-15 22:13:08,325 [ERROR][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: error
+2015-03-15 22:13:14,511 [FATAL][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: fatal
+2015-03-15 22:13:56,570 [ERROR][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: error
+2015-03-15 22:17:49,529 [ERROR][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: error
+2015-03-15 22:23:08,500 [FATAL][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: fatal
+2015-03-15 22:23:56,757 [FATAL][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: fatal
+2015-03-15 23:10:28,829 [ERROR][main            ][.tgrynchuk.lab5logger.TestLogger] - [a]error in a
+2015-03-15 23:10:28,829 [ERROR][main            ][.tgrynchuk.lab5logger.TestLogger] - [a b]error in b
+2015-03-15 23:10:28,829 [ERROR][main            ][.tgrynchuk.lab5logger.TestLogger] - []some error
+2015-03-15 23:10:28,839 [ERROR][main            ][.tgrynchuk.lab5logger.TestLogger] - []java.lang.Exception: Some exception
+java.lang.Exception: Some exception
+	at com.epam.tgrynchuk.lab5logger.TestLogger.main(TestLogger.java:36)
+2015-03-15 23:10:28,958 [INFO ][main            ][.tgrynchuk.lab5logger.TestLogger] - []Info!!!!!!!!!!!!!!!!!!
+2015-03-15 23:10:28,962 [WARN ][main            ][.tgrynchuk.lab5logger.TestLogger] - []warning
+2015-03-15 23:10:28,963 [FATAL][main            ][.tgrynchuk.lab5logger.TestLogger] - []Fatality !!!
+2015-03-15 23:10:44,392 [INFO ][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: info
+2015-03-15 23:10:44,403 [WARN ][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: warn
+2015-03-15 23:10:44,403 [ERROR][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: error
+2015-03-15 23:10:44,403 [FATAL][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: fatal
+2015-03-15 23:10:46,764 [INFO ][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: info
+2015-03-15 23:10:46,764 [WARN ][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: warn
+2015-03-15 23:10:46,764 [ERROR][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: error
+2015-03-15 23:10:46,764 [FATAL][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: fatal
+2015-03-15 23:14:39,444 [ERROR][main            ][.tgrynchuk.lab5logger.TestLogger] - [a]error in a
+2015-03-15 23:14:39,464 [ERROR][main            ][.tgrynchuk.lab5logger.TestLogger] - [a b]error in b
+2015-03-15 23:14:39,464 [ERROR][main            ][.tgrynchuk.lab5logger.TestLogger] - []some error
+2015-03-15 23:14:39,464 [ERROR][main            ][.tgrynchuk.lab5logger.TestLogger] - []java.lang.Exception: Some exception
+java.lang.Exception: Some exception
+	at com.epam.tgrynchuk.lab5logger.TestLogger.main(TestLogger.java:36)
+2015-03-15 23:14:39,502 [INFO ][main            ][.tgrynchuk.lab5logger.TestLogger] - []Info!!!!!!!!!!!!!!!!!!
+2015-03-15 23:14:39,519 [WARN ][main            ][.tgrynchuk.lab5logger.TestLogger] - []warning
+2015-03-15 23:14:39,519 [FATAL][main            ][.tgrynchuk.lab5logger.TestLogger] - []Fatality !!!
+2015-03-15 23:14:47,302 [INFO ][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: info
+2015-03-15 23:14:47,302 [WARN ][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: warn
+2015-03-15 23:14:47,302 [ERROR][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: error
+2015-03-15 23:14:47,302 [FATAL][main            ][tgrynchuk.lab5logger.TestFilters] - []static Test filters: fatal
+2015-03-15 23:14:54,965 [INFO ][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: info
+2015-03-15 23:14:54,975 [WARN ][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: warn
+2015-03-15 23:14:54,975 [ERROR][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: error
+2015-03-15 23:14:54,975 [FATAL][main            ][tgrynchuk.lab5logger.TestFilters] - []Test filters: fatal
