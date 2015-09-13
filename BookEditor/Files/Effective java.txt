@@ -1,0 +1,113 @@
+Item 2.	Consider a builder when faced with many constructor 
+
+Static factories and constructors share a limitation: they do not scale well to large
+
+numbers of optional parameters. Consider the case of a class representing the
+
+Nutrition Facts label that appears on packaged foods. These labels have a few
+
+required fields—serving size, servings per container, and calories per serving—
+
+and over twenty optional fields—total fat, saturated fat, trans fat, cholesterol,
+
+sodium, and so on. Most products have nonzero values for only a few of these
+
+optional fields.
+
+What sort of constructors or static factories should you write for such a class?
+
+
+Traditionally, programmers have used the telescoping constructor pattern, in
+
+which you provide a constructor with only the required parameters, another with a
+
+single optional parameter, a third with two optional parameters, and so on, culmi-
+nating in a constructor with all the optional parameters. Here’s how it looks in
+
+practice. For brevity’s sake, only four optional fields are shown:
+
+// Telescoping constructor pattern - does not scale well!
+
+public class NutritionFacts {
+
+private final int servingSize; // (mL) required
+
+private final int servings; // (per container) required
+
+private final int calories; // optional
+
+private final int fat; // (g) optional
+
+private final int sodium; // (mg) optional
+
+private final int carbohydrate; // (g) optional
+
+public NutritionFacts(int servingSize, int servings) {
+
+}
+
+public NutritionFacts(int servingSize, int servings,
+
+}
+
+public NutritionFacts(int servingSize, int servings,
+
+}
+
+public NutritionFacts(int servingSize, int servings,
+
+}
+
+parameters
+
+this(servingSize, servings, 0);
+
+int calories) {
+
+this(servingSize, servings, calories, 0);
+
+int calories, int fat) {
+
+this(servingSize, servings, calories, fat, 0);
+
+int calories, int fat, int sodium) {
+
+this(servingSize, servings, calories, fat, sodium, 0);
+
+12 CHAPTER 2 CREATING AND DESTROYING OBJECTS
+
+public NutritionFacts(int servingSize, int servings,
+
+int calories, int fat, int sodium, int carbohydrate) {
+
+this.servingSize = servingSize;
+
+this.servings = servings;
+
+this.calories = calories;
+
+this.fat = fat;
+
+this.sodium = sodium;
+
+this.carbohydrate = carbohydrate;
+
+}
+
+}
+
+When you want to create an instance, you use the constructor with the shortest
+
+parameter list containing all the parameters you want to set:
+
+NutritionFacts cocaCola =
+
+Typically this constructor invocation will require many parameters that you don’t
+
+want to set, but you’re forced to pass a value for them anyway. In this case, we
+
+passed a value of 0 for fat. With “only” six parameters this may not seem so bad,
+
+but it quickly gets out of hand as the number of parameters increases.
+
+new NutritionFacts(240, 8, 100, 0, 35, 27);

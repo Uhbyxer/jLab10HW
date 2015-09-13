@@ -1,0 +1,76 @@
+That said, you'll find that many of the questions in the exam don't follow the
+
+code conventions, because of the limitations in the test engine that is used to deliver 
+
+the exam internationally. One of the great things about the Sun certifications is that 
+
+the exams are administered uniformly throughout the world. In order to achieve 
+
+that, the code listings that you'll see in the real exam are often quite cramped, 
+
+and do not follow Sun's code standards. In order to toughen you up for the exam, 
+
+we'll often present code listings that have a similarly cramped look and feel, often 
+
+indenting our code only two spaces as opposed to the Sun standard of four. 
+
+We'll also jam our curly braces together unnaturally, and sometimes put several 
+
+statements on the same line...ouch! For example:
+
+ 1. class Wombat implements Runnable {
+
+ 2. private int i;
+
+ 3. public synchronized void run() { 
+
+ 4. if (i%5 != 0) { i++; }
+
+ 5. for(int x=0; x<5; x++, i++)
+ 6. { if (x > 1) Thread.yield(); }
+
+ 7. System.out.print(i + " ");
+
+ 8. }
+
+ 9. public static void main(String[] args) {
+
+10. Wombat n = new Wombat();
+
+11. for(int x=100; x>0; --x) { new Thread(n).start(); }
+
+12. } }
+
+Consider yourself forewarned—you'll see lots of code listings, mock questions, and 
+
+real exam questions that are this sick and twisted. Nobody wants you to write your 
+
+code like this. Not your employer, not your coworkers, not us, not Sun, and not the 
+
+exam creation team! Code like this was created only so that complex concepts could 
+
+be tested within a universal testing tool. The one standard that is followed as much 
+
+as possible in the real exam are the naming standards. Here are the naming standards 
+
+that Sun recommends, and that we use in the exam and in most of the book:
+
+■ Classes and interfaces The first letter should be capitalized, and if several 
+
+words are linked together to form the name, the first letter of the inner words 
+
+should be uppercase (a format that's sometimes called "camelCase"). For 
+
+classes, the names should typically be nouns. For example: 
+
+ Dog 
+
+ Account
+
+ PrintWriter
+
+For interfaces, the names should typically be adjectives like
+
+ Runnable
+
+ Serializable

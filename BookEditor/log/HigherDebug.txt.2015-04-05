@@ -1,0 +1,553 @@
+2015-04-05 11:52:22,047 [INFO ][main            ][.tgrynchuk.bookeditor.EntryPoint] - []Starts......
+2015-04-05 12:03:35,368 [INFO ][main            ][.tgrynchuk.bookeditor.EntryPoint] - []Starts......
+2015-04-05 12:03:35,388 [INFO ][main            ][editor.mvc.engine.BookController] - []start()-->
+2015-04-05 12:05:10,892 [INFO ][main            ][.tgrynchuk.bookeditor.EntryPoint] - []Starts......
+2015-04-05 12:05:10,902 [INFO ][main            ][editor.mvc.engine.BookController] - []start()-->
+2015-04-05 12:41:17,854 [INFO ][main            ][.tgrynchuk.bookeditor.EntryPoint] - []Starts......
+2015-04-05 12:41:17,864 [INFO ][main            ][editor.mvc.engine.BookController] - []start()-->
+2015-04-05 12:41:18,044 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][1 --> Відкрити файл..., q --> Вийти з програми]
+2015-04-05 12:41:18,044 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][1 --> Відкрити файл..., q --> Вийти з програми]
+2015-04-05 12:41:23,283 [DEBUG][main            ][editor.mvc.engine.BookController] - []mainMenu.select 1
+2015-04-05 12:41:23,283 [DEBUG][main            ][.engine.menus.items.OpenFileItem] - []OpenFileItem.execute()
+2015-04-05 12:41:23,283 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][1 --> Відкрити файл..., q --> Вийти з програми]
+2015-04-05 12:41:23,283 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][1 --> Відкрити файл..., q --> Вийти з програми]
+2015-04-05 12:41:24,284 [DEBUG][main            ][editor.mvc.engine.BookController] - []mainMenu.select 1
+2015-04-05 12:41:24,294 [DEBUG][main            ][.engine.menus.items.OpenFileItem] - []OpenFileItem.execute()
+2015-04-05 12:41:24,294 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][1 --> Відкрити файл..., q --> Вийти з програми]
+2015-04-05 12:41:24,294 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][1 --> Відкрити файл..., q --> Вийти з програми]
+2015-04-05 12:41:25,055 [DEBUG][main            ][editor.mvc.engine.BookController] - []mainMenu.select 1
+2015-04-05 12:41:25,055 [DEBUG][main            ][.engine.menus.items.OpenFileItem] - []OpenFileItem.execute()
+2015-04-05 12:41:25,055 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][1 --> Відкрити файл..., q --> Вийти з програми]
+2015-04-05 12:41:25,065 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][1 --> Відкрити файл..., q --> Вийти з програми]
+2015-04-05 12:41:27,528 [DEBUG][main            ][editor.mvc.engine.BookController] - []mainMenu.select q
+2015-04-05 12:41:27,528 [INFO ][main            ][ine.menus.items.QuitProgtramItem] - []QuitProgtramItem.execute()
+2015-04-05 12:46:34,825 [INFO ][main            ][.tgrynchuk.bookeditor.EntryPoint] - []Starts......
+2015-04-05 12:46:34,825 [INFO ][main            ][editor.mvc.engine.BookController] - []start()-->
+2015-04-05 12:46:34,885 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][1 --> Відкрити файл..., q --> Вийти з програми]
+2015-04-05 12:46:34,885 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][1 --> Відкрити файл..., q --> Вийти з програми]
+2015-04-05 12:46:38,405 [DEBUG][main            ][editor.mvc.engine.BookController] - []mainMenu.select 1
+2015-04-05 12:46:38,405 [DEBUG][main            ][.engine.menus.items.OpenFileItem] - []OpenFileItem.execute()
+2015-04-05 12:46:38,405 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][1 --> Відкрити файл..., q --> Вийти з програми]
+2015-04-05 12:46:38,405 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][1 --> Відкрити файл..., q --> Вийти з програми]
+2015-04-05 12:46:39,126 [DEBUG][main            ][editor.mvc.engine.BookController] - []mainMenu.select 1
+2015-04-05 12:46:39,126 [DEBUG][main            ][.engine.menus.items.OpenFileItem] - []OpenFileItem.execute()
+2015-04-05 12:46:39,136 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][1 --> Відкрити файл..., q --> Вийти з програми]
+2015-04-05 12:46:39,136 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][1 --> Відкрити файл..., q --> Вийти з програми]
+2015-04-05 12:46:39,967 [DEBUG][main            ][editor.mvc.engine.BookController] - []mainMenu.select 1
+2015-04-05 12:46:39,967 [DEBUG][main            ][.engine.menus.items.OpenFileItem] - []OpenFileItem.execute()
+2015-04-05 12:46:39,967 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][1 --> Відкрити файл..., q --> Вийти з програми]
+2015-04-05 12:46:39,967 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][1 --> Відкрити файл..., q --> Вийти з програми]
+2015-04-05 12:46:40,719 [DEBUG][main            ][editor.mvc.engine.BookController] - []mainMenu.select 1
+2015-04-05 12:46:40,719 [DEBUG][main            ][.engine.menus.items.OpenFileItem] - []OpenFileItem.execute()
+2015-04-05 12:46:40,719 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][1 --> Відкрити файл..., q --> Вийти з програми]
+2015-04-05 12:46:40,719 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][1 --> Відкрити файл..., q --> Вийти з програми]
+2015-04-05 12:46:41,307 [DEBUG][main            ][editor.mvc.engine.BookController] - []mainMenu.select 1
+2015-04-05 12:46:41,317 [DEBUG][main            ][.engine.menus.items.OpenFileItem] - []OpenFileItem.execute()
+2015-04-05 12:46:41,317 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][1 --> Відкрити файл..., q --> Вийти з програми]
+2015-04-05 12:46:41,317 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][1 --> Відкрити файл..., q --> Вийти з програми]
+2015-04-05 12:46:41,888 [DEBUG][main            ][editor.mvc.engine.BookController] - []mainMenu.select 1
+2015-04-05 12:46:41,888 [DEBUG][main            ][.engine.menus.items.OpenFileItem] - []OpenFileItem.execute()
+2015-04-05 12:46:41,888 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][1 --> Відкрити файл..., q --> Вийти з програми]
+2015-04-05 12:46:41,888 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][1 --> Відкрити файл..., q --> Вийти з програми]
+2015-04-05 12:46:42,698 [DEBUG][main            ][editor.mvc.engine.BookController] - []mainMenu.select 1
+2015-04-05 12:46:42,698 [DEBUG][main            ][.engine.menus.items.OpenFileItem] - []OpenFileItem.execute()
+2015-04-05 12:46:42,698 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][1 --> Відкрити файл..., q --> Вийти з програми]
+2015-04-05 12:46:42,698 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][1 --> Відкрити файл..., q --> Вийти з програми]
+2015-04-05 12:46:43,319 [DEBUG][main            ][editor.mvc.engine.BookController] - []mainMenu.select 1
+2015-04-05 12:46:43,319 [DEBUG][main            ][.engine.menus.items.OpenFileItem] - []OpenFileItem.execute()
+2015-04-05 12:46:43,319 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][1 --> Відкрити файл..., q --> Вийти з програми]
+2015-04-05 12:46:43,319 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][1 --> Відкрити файл..., q --> Вийти з програми]
+2015-04-05 12:46:49,856 [DEBUG][main            ][editor.mvc.engine.BookController] - []mainMenu.select q
+2015-04-05 12:46:49,856 [INFO ][main            ][ine.menus.items.QuitProgtramItem] - []QuitProgtramItem.execute()
+2015-04-05 13:02:04,786 [INFO ][main            ][.tgrynchuk.bookeditor.EntryPoint] - []Starts......
+2015-04-05 13:02:04,786 [INFO ][main            ][editor.mvc.engine.BookController] - []start()-->
+2015-04-05 13:02:04,846 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][1 --> Відкрити файл..., q --> Вийти з програми]
+2015-04-05 13:02:04,846 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][1 --> Відкрити файл..., q --> Вийти з програми]
+2015-04-05 13:02:13,815 [DEBUG][main            ][editor.mvc.engine.BookController] - []mainMenu.select 0
+2015-04-05 13:02:13,825 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][1 --> Відкрити файл..., q --> Вийти з програми]
+2015-04-05 13:02:13,825 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][1 --> Відкрити файл..., q --> Вийти з програми]
+2015-04-05 13:02:45,961 [DEBUG][main            ][editor.mvc.engine.BookController] - []mainMenu.select q
+2015-04-05 13:02:45,961 [INFO ][main            ][ine.menus.items.QuitProgtramItem] - []QuitProgtramItem.execute()
+2015-04-05 13:10:29,737 [INFO ][main            ][.tgrynchuk.bookeditor.EntryPoint] - []Starts......
+2015-04-05 13:10:29,777 [INFO ][main            ][editor.mvc.engine.BookController] - []start()-->
+2015-04-05 13:10:46,634 [INFO ][main            ][.tgrynchuk.bookeditor.EntryPoint] - []Starts......
+2015-04-05 13:10:46,644 [INFO ][main            ][editor.mvc.engine.BookController] - []start()-->
+2015-04-05 13:11:25,110 [INFO ][main            ][.tgrynchuk.bookeditor.EntryPoint] - []Starts......
+2015-04-05 13:11:25,130 [INFO ][main            ][editor.mvc.engine.BookController] - []start()-->
+2015-04-05 13:12:14,168 [INFO ][main            ][.tgrynchuk.bookeditor.EntryPoint] - []Starts......
+2015-04-05 13:12:14,188 [INFO ][main            ][editor.mvc.engine.BookController] - []start()-->
+2015-04-05 13:12:36,342 [INFO ][main            ][.tgrynchuk.bookeditor.EntryPoint] - []Starts......
+2015-04-05 13:12:36,362 [INFO ][main            ][editor.mvc.engine.BookController] - []start()-->
+2015-04-05 13:12:36,492 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][1 --> Відкрити файл..., q --> Вийти з програми]
+2015-04-05 13:12:36,492 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][1 --> Відкрити файл..., q --> Вийти з програми]
+2015-04-05 13:20:12,057 [INFO ][main            ][.tgrynchuk.bookeditor.EntryPoint] - []Starts......
+2015-04-05 13:20:12,087 [INFO ][main            ][editor.mvc.engine.BookController] - []start()-->
+2015-04-05 13:20:12,167 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][1 --> Відкрити файл..., q --> Вийти з програми]
+2015-04-05 13:20:12,167 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][1 --> Відкрити файл..., q --> Вийти з програми]
+2015-04-05 13:20:20,599 [INFO ][main            ][.tgrynchuk.bookeditor.EntryPoint] - []Starts......
+2015-04-05 13:20:20,609 [INFO ][main            ][editor.mvc.engine.BookController] - []start()-->
+2015-04-05 13:20:20,669 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][1 --> Відкрити файл..., q --> Вийти з програми]
+2015-04-05 13:20:20,669 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][1 --> Відкрити файл..., q --> Вийти з програми]
+2015-04-05 13:21:12,931 [INFO ][main            ][.tgrynchuk.bookeditor.EntryPoint] - []Starts......
+2015-04-05 13:21:12,931 [INFO ][main            ][editor.mvc.engine.BookController] - []start()-->
+2015-04-05 13:21:34,453 [INFO ][main            ][.tgrynchuk.bookeditor.EntryPoint] - []Starts......
+2015-04-05 13:21:34,453 [INFO ][main            ][editor.mvc.engine.BookController] - []start()-->
+2015-04-05 13:22:24,948 [INFO ][main            ][.tgrynchuk.bookeditor.EntryPoint] - []Starts......
+2015-04-05 13:22:24,948 [INFO ][main            ][editor.mvc.engine.BookController] - []start()-->
+2015-04-05 13:22:25,018 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][1 --> Відкрити файл..., q --> Вийти з програми]
+2015-04-05 13:22:25,018 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][1 --> Відкрити файл..., q --> Вийти з програми]
+2015-04-05 13:22:30,739 [DEBUG][main            ][editor.mvc.engine.BookController] - []mainMenu.select q
+2015-04-05 13:22:30,739 [INFO ][main            ][ine.menus.items.QuitProgtramItem] - []QuitProgtramItem.execute()
+2015-04-05 13:23:19,290 [INFO ][main            ][.tgrynchuk.bookeditor.EntryPoint] - []Starts......
+2015-04-05 13:23:19,300 [INFO ][main            ][editor.mvc.engine.BookController] - []start()-->
+2015-04-05 13:23:19,310 [INFO ][main            ][editor.mvc.engine.BookController] - []set lang ua
+2015-04-05 13:23:19,360 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][1 --> Відкрити файл..., q --> Вийти з програми]
+2015-04-05 13:23:19,370 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][1 --> Відкрити файл..., q --> Вийти з програми]
+2015-04-05 14:00:36,963 [INFO ][main            ][.tgrynchuk.bookeditor.EntryPoint] - []Starts......
+2015-04-05 14:00:36,973 [INFO ][main            ][editor.mvc.engine.BookController] - []start()-->
+2015-04-05 14:00:36,973 [INFO ][main            ][editor.mvc.engine.BookController] - []set lang ua
+2015-04-05 14:00:42,476 [WARN ][main            ][ookeditor.mvc.ui.ScannerSigleton] - []It is not float value !!! Try again...
+2015-04-05 14:00:46,093 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][1 --> Відкрити файл..., q --> Вийти з програми]
+2015-04-05 14:00:46,093 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][1 --> Відкрити файл..., q --> Вийти з програми]
+2015-04-05 14:00:46,093 [DEBUG][main            ][editor.mvc.engine.BookController] - []mainMenu.select 
+2015-04-05 14:00:46,093 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][1 --> Відкрити файл..., q --> Вийти з програми]
+2015-04-05 14:00:46,093 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][1 --> Відкрити файл..., q --> Вийти з програми]
+2015-04-05 14:02:07,968 [INFO ][main            ][.tgrynchuk.bookeditor.EntryPoint] - []Starts......
+2015-04-05 14:02:07,968 [INFO ][main            ][editor.mvc.engine.BookController] - []start()-->
+2015-04-05 14:02:07,978 [INFO ][main            ][editor.mvc.engine.BookController] - []set lang ua
+2015-04-05 14:02:11,823 [WARN ][main            ][ookeditor.mvc.ui.ScannerSigleton] - []It is not integer value !!! Try again...
+2015-04-05 14:02:16,255 [WARN ][main            ][ookeditor.mvc.ui.ScannerSigleton] - []Integer is out of bounds. Try again...
+2015-04-05 14:02:25,015 [WARN ][main            ][ookeditor.mvc.ui.ScannerSigleton] - []It is not float value !!! Try again...
+2015-04-05 14:02:25,015 [WARN ][main            ][ookeditor.mvc.ui.ScannerSigleton] - []It is not float value !!! Try again...
+2015-04-05 14:02:27,846 [WARN ][main            ][ookeditor.mvc.ui.ScannerSigleton] - []It is not float value !!! Try again...
+2015-04-05 14:02:33,444 [WARN ][main            ][ookeditor.mvc.ui.ScannerSigleton] - []It is not float value !!! Try again...
+2015-04-05 14:02:36,622 [WARN ][main            ][ookeditor.mvc.ui.ScannerSigleton] - []Float number is negative. Try again...
+2015-04-05 14:02:45,146 [WARN ][main            ][ookeditor.mvc.ui.ScannerSigleton] - []It is not float value !!! Try again...
+2015-04-05 14:02:45,146 [WARN ][main            ][ookeditor.mvc.ui.ScannerSigleton] - []It is not float value !!! Try again...
+2015-04-05 14:02:48,699 [WARN ][main            ][ookeditor.mvc.ui.ScannerSigleton] - []It is not float value !!! Try again...
+2015-04-05 14:02:53,143 [WARN ][main            ][ookeditor.mvc.ui.ScannerSigleton] - []It is not float value !!! Try again...
+2015-04-05 14:02:53,143 [WARN ][main            ][ookeditor.mvc.ui.ScannerSigleton] - []It is not float value !!! Try again...
+2015-04-05 14:02:53,143 [WARN ][main            ][ookeditor.mvc.ui.ScannerSigleton] - []It is not float value !!! Try again...
+2015-04-05 14:02:53,143 [WARN ][main            ][ookeditor.mvc.ui.ScannerSigleton] - []It is not float value !!! Try again...
+2015-04-05 14:02:56,918 [WARN ][main            ][ookeditor.mvc.ui.ScannerSigleton] - []It is not float value !!! Try again...
+2015-04-05 14:02:58,151 [WARN ][main            ][ookeditor.mvc.ui.ScannerSigleton] - []It is not float value !!! Try again...
+2015-04-05 14:03:03,772 [WARN ][main            ][ookeditor.mvc.ui.ScannerSigleton] - []It is not float value !!! Try again...
+2015-04-05 14:03:07,847 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][1 --> Відкрити файл..., q --> Вийти з програми]
+2015-04-05 14:03:07,847 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][1 --> Відкрити файл..., q --> Вийти з програми]
+2015-04-05 14:03:07,847 [DEBUG][main            ][editor.mvc.engine.BookController] - []mainMenu.select 
+2015-04-05 14:03:07,847 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][1 --> Відкрити файл..., q --> Вийти з програми]
+2015-04-05 14:03:07,847 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][1 --> Відкрити файл..., q --> Вийти з програми]
+2015-04-05 14:07:54,036 [INFO ][main            ][.tgrynchuk.bookeditor.EntryPoint] - []Starts......
+2015-04-05 14:07:54,046 [INFO ][main            ][editor.mvc.engine.BookController] - []start()-->
+2015-04-05 14:07:54,046 [INFO ][main            ][editor.mvc.engine.BookController] - []set lang ua
+2015-04-05 14:08:01,519 [WARN ][main            ][ookeditor.mvc.ui.ScannerSigleton] - []Це не число !!! Спробуйте ще раз...
+2015-04-05 14:08:01,529 [WARN ][main            ][ookeditor.mvc.ui.ScannerSigleton] - []Це не число !!! Спробуйте ще раз...
+2015-04-05 14:08:03,483 [WARN ][main            ][ookeditor.mvc.ui.ScannerSigleton] - []Це не число !!! Спробуйте ще раз...
+2015-04-05 14:08:09,258 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][1 --> Відкрити файл..., q --> Вийти з програми]
+2015-04-05 14:08:09,268 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][1 --> Відкрити файл..., q --> Вийти з програми]
+2015-04-05 14:08:09,268 [DEBUG][main            ][editor.mvc.engine.BookController] - []mainMenu.select 
+2015-04-05 14:08:09,268 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][1 --> Відкрити файл..., q --> Вийти з програми]
+2015-04-05 14:08:09,268 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][1 --> Відкрити файл..., q --> Вийти з програми]
+2015-04-05 14:09:30,990 [INFO ][main            ][.tgrynchuk.bookeditor.EntryPoint] - []Starts......
+2015-04-05 14:09:31,000 [INFO ][main            ][editor.mvc.engine.BookController] - []start()-->
+2015-04-05 14:09:31,010 [INFO ][main            ][editor.mvc.engine.BookController] - []set lang ua
+2015-04-05 14:09:35,347 [WARN ][main            ][ookeditor.mvc.ui.ScannerSigleton] - []Це не ціле число !!! Спробуйте ще раз...
+2015-04-05 14:09:43,173 [WARN ][main            ][ookeditor.mvc.ui.ScannerSigleton] - []Число поза межами. Спробуйте ще раз...
+2015-04-05 14:09:58,496 [WARN ][main            ][ookeditor.mvc.ui.ScannerSigleton] - []Це не число !!! Спробуйте ще раз...
+2015-04-05 14:10:02,048 [WARN ][main            ][ookeditor.mvc.ui.ScannerSigleton] - []Значення числа від'ємне. Спробуйте ще раз...
+2015-04-05 14:10:04,530 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][1 --> Відкрити файл..., q --> Вийти з програми]
+2015-04-05 14:10:04,530 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][1 --> Відкрити файл..., q --> Вийти з програми]
+2015-04-05 14:16:30,850 [INFO ][main            ][.tgrynchuk.bookeditor.EntryPoint] - []Starts......
+2015-04-05 14:16:30,850 [INFO ][main            ][editor.mvc.engine.BookController] - []start()-->
+2015-04-05 14:16:30,850 [INFO ][main            ][editor.mvc.engine.BookController] - []set lang ua
+2015-04-05 14:22:24,172 [INFO ][main            ][.tgrynchuk.bookeditor.EntryPoint] - []Starts......
+2015-04-05 14:22:24,182 [INFO ][main            ][editor.mvc.engine.BookController] - []start()-->
+2015-04-05 14:22:24,182 [INFO ][main            ][editor.mvc.engine.BookController] - []set lang ua
+2015-04-05 14:22:24,242 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][1 --> menu.open, q --> menu.quit]
+2015-04-05 14:22:24,252 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][1 --> menu.open, q --> menu.quit]
+2015-04-05 14:22:35,333 [DEBUG][main            ][editor.mvc.engine.BookController] - []mainMenu.select q
+2015-04-05 14:22:35,333 [INFO ][main            ][ine.menus.items.QuitProgtramItem] - []QuitProgtramItem.execute()
+2015-04-05 14:22:52,178 [INFO ][main            ][.tgrynchuk.bookeditor.EntryPoint] - []Starts......
+2015-04-05 14:22:52,188 [INFO ][main            ][editor.mvc.engine.BookController] - []start()-->
+2015-04-05 14:22:52,188 [INFO ][main            ][editor.mvc.engine.BookController] - []set lang ua
+2015-04-05 14:22:52,248 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][1 --> Відкрити файл..., q --> Вийти з програми]
+2015-04-05 14:22:52,248 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][1 --> Відкрити файл..., q --> Вийти з програми]
+2015-04-05 14:23:00,531 [DEBUG][main            ][editor.mvc.engine.BookController] - []mainMenu.select q
+2015-04-05 14:23:00,531 [INFO ][main            ][ine.menus.items.QuitProgtramItem] - []QuitProgtramItem.execute()
+2015-04-05 14:23:20,541 [INFO ][main            ][.tgrynchuk.bookeditor.EntryPoint] - []Starts......
+2015-04-05 14:23:20,551 [INFO ][main            ][editor.mvc.engine.BookController] - []start()-->
+2015-04-05 14:23:20,561 [INFO ][main            ][editor.mvc.engine.BookController] - []set lang en
+2015-04-05 14:23:20,621 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][1 --> menu.open, q --> menu.quit]
+2015-04-05 14:23:20,631 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][1 --> menu.open, q --> menu.quit]
+2015-04-05 14:23:24,144 [DEBUG][main            ][editor.mvc.engine.BookController] - []mainMenu.select q
+2015-04-05 14:23:24,144 [INFO ][main            ][ine.menus.items.QuitProgtramItem] - []QuitProgtramItem.execute()
+2015-04-05 14:23:58,581 [INFO ][main            ][.tgrynchuk.bookeditor.EntryPoint] - []Starts......
+2015-04-05 14:23:58,581 [INFO ][main            ][editor.mvc.engine.BookController] - []start()-->
+2015-04-05 14:23:58,591 [INFO ][main            ][editor.mvc.engine.BookController] - []set lang en
+2015-04-05 14:23:58,651 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][1 --> Open file..., q --> Quit program]
+2015-04-05 14:23:58,651 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][1 --> Open file..., q --> Quit program]
+2015-04-05 14:24:02,942 [DEBUG][main            ][editor.mvc.engine.BookController] - []mainMenu.select q
+2015-04-05 14:24:02,942 [INFO ][main            ][ine.menus.items.QuitProgtramItem] - []QuitProgtramItem.execute()
+2015-04-05 14:39:00,554 [INFO ][main            ][.tgrynchuk.bookeditor.EntryPoint] - []Starts......
+2015-04-05 14:39:00,564 [INFO ][main            ][editor.mvc.engine.BookController] - []start()-->
+2015-04-05 14:39:00,574 [INFO ][main            ][editor.mvc.engine.BookController] - []set lang en
+2015-04-05 14:39:00,644 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][0 --> УКРАЇНСЬКОЮ, 1 --> Open file..., q --> Quit program]
+2015-04-05 14:39:00,644 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][0 --> УКРАЇНСЬКОЮ, 1 --> Open file..., q --> Quit program]
+2015-04-05 14:39:10,568 [DEBUG][main            ][editor.mvc.engine.BookController] - []mainMenu.select 0
+2015-04-05 14:39:10,568 [DEBUG][main            ][ngine.menus.items.ChangeLangItem] - []ChangeLangItem.execute()
+2015-04-05 14:39:10,568 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][0 --> УКРАЇНСЬКОЮ, 1 --> Open file..., q --> Quit program]
+2015-04-05 14:39:10,568 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][0 --> УКРАЇНСЬКОЮ, 1 --> Open file..., q --> Quit program]
+2015-04-05 14:39:13,781 [DEBUG][main            ][editor.mvc.engine.BookController] - []mainMenu.select 1
+2015-04-05 14:39:13,781 [DEBUG][main            ][.engine.menus.items.OpenFileItem] - []OpenFileItem.execute()
+2015-04-05 14:39:13,781 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][0 --> УКРАЇНСЬКОЮ, 1 --> Open file..., q --> Quit program]
+2015-04-05 14:39:13,781 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][0 --> УКРАЇНСЬКОЮ, 1 --> Open file..., q --> Quit program]
+2015-04-05 14:39:16,113 [DEBUG][main            ][editor.mvc.engine.BookController] - []mainMenu.select q
+2015-04-05 14:39:16,113 [INFO ][main            ][ine.menus.items.QuitProgtramItem] - []QuitProgtramItem.execute()
+2015-04-05 14:41:27,988 [INFO ][main            ][.tgrynchuk.bookeditor.EntryPoint] - []Starts......
+2015-04-05 14:41:27,998 [INFO ][main            ][editor.mvc.engine.BookController] - []start()-->
+2015-04-05 14:41:27,998 [INFO ][main            ][editor.mvc.engine.BookController] - []set lang en
+2015-04-05 14:41:28,068 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][0 --> УКРАЇНСЬКОЮ, 1 --> Open file..., q --> Quit program]
+2015-04-05 14:41:28,068 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][0 --> УКРАЇНСЬКОЮ, 1 --> Open file..., q --> Quit program]
+2015-04-05 14:41:31,746 [DEBUG][main            ][editor.mvc.engine.BookController] - []mainMenu.select 0
+2015-04-05 14:41:31,756 [DEBUG][main            ][ngine.menus.items.ChangeLangItem] - []ChangeLangItem.execute()
+2015-04-05 14:41:31,766 [INFO ][main            ][editor.mvc.engine.BookController] - []set lang ua
+2015-04-05 14:41:31,766 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][0 --> ENGLISH, 1 --> Відкрити файл..., q --> Вийти з програми]
+2015-04-05 14:41:31,766 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][0 --> ENGLISH, 1 --> Відкрити файл..., q --> Вийти з програми]
+2015-04-05 14:41:35,040 [DEBUG][main            ][editor.mvc.engine.BookController] - []mainMenu.select 0
+2015-04-05 14:41:35,040 [DEBUG][main            ][ngine.menus.items.ChangeLangItem] - []ChangeLangItem.execute()
+2015-04-05 14:41:35,040 [INFO ][main            ][editor.mvc.engine.BookController] - []set lang en
+2015-04-05 14:41:35,040 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][0 --> УКРАЇНСЬКОЮ, 1 --> Open file..., q --> Quit program]
+2015-04-05 14:41:35,040 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][0 --> УКРАЇНСЬКОЮ, 1 --> Open file..., q --> Quit program]
+2015-04-05 14:41:37,274 [DEBUG][main            ][editor.mvc.engine.BookController] - []mainMenu.select 0
+2015-04-05 14:41:37,274 [DEBUG][main            ][ngine.menus.items.ChangeLangItem] - []ChangeLangItem.execute()
+2015-04-05 14:41:37,274 [INFO ][main            ][editor.mvc.engine.BookController] - []set lang ua
+2015-04-05 14:41:37,274 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][0 --> ENGLISH, 1 --> Відкрити файл..., q --> Вийти з програми]
+2015-04-05 14:41:37,274 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][0 --> ENGLISH, 1 --> Відкрити файл..., q --> Вийти з програми]
+2015-04-05 14:41:39,995 [DEBUG][main            ][editor.mvc.engine.BookController] - []mainMenu.select 0
+2015-04-05 14:41:39,995 [DEBUG][main            ][ngine.menus.items.ChangeLangItem] - []ChangeLangItem.execute()
+2015-04-05 14:41:39,995 [INFO ][main            ][editor.mvc.engine.BookController] - []set lang en
+2015-04-05 14:41:40,005 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][0 --> УКРАЇНСЬКОЮ, 1 --> Open file..., q --> Quit program]
+2015-04-05 14:41:40,005 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][0 --> УКРАЇНСЬКОЮ, 1 --> Open file..., q --> Quit program]
+2015-04-05 14:41:46,205 [DEBUG][main            ][editor.mvc.engine.BookController] - []mainMenu.select 0
+2015-04-05 14:41:46,205 [DEBUG][main            ][ngine.menus.items.ChangeLangItem] - []ChangeLangItem.execute()
+2015-04-05 14:41:46,205 [INFO ][main            ][editor.mvc.engine.BookController] - []set lang ua
+2015-04-05 14:41:46,205 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][0 --> ENGLISH, 1 --> Відкрити файл..., q --> Вийти з програми]
+2015-04-05 14:41:46,205 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][0 --> ENGLISH, 1 --> Відкрити файл..., q --> Вийти з програми]
+2015-04-05 14:44:48,479 [INFO ][main            ][.tgrynchuk.bookeditor.EntryPoint] - []Starts......
+2015-04-05 14:44:48,479 [INFO ][main            ][editor.mvc.engine.BookController] - []start()-->
+2015-04-05 14:44:48,489 [INFO ][main            ][editor.mvc.engine.BookController] - []set lang en
+2015-04-05 14:44:48,549 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][0 --> УКРАЇНСЬКОЮ, 1 --> Open file..., q --> Quit program]
+2015-04-05 14:44:48,549 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][0 --> УКРАЇНСЬКОЮ, 1 --> Open file..., q --> Quit program]
+2015-04-05 14:44:53,745 [DEBUG][main            ][editor.mvc.engine.BookController] - []mainMenu.select 0
+2015-04-05 14:44:53,745 [DEBUG][main            ][ngine.menus.items.ChangeLangItem] - []ChangeLangItem.execute()
+2015-04-05 14:44:53,745 [INFO ][main            ][editor.mvc.engine.BookController] - []set lang ua
+2015-04-05 14:44:53,745 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][0 --> ENGLISH, 1 --> Відкрити файл..., q --> Вийти з програми]
+2015-04-05 14:44:53,745 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][0 --> ENGLISH, 1 --> Відкрити файл..., q --> Вийти з програми]
+2015-04-05 14:44:54,362 [DEBUG][main            ][editor.mvc.engine.BookController] - []mainMenu.select 0
+2015-04-05 14:44:54,362 [DEBUG][main            ][ngine.menus.items.ChangeLangItem] - []ChangeLangItem.execute()
+2015-04-05 14:44:54,362 [INFO ][main            ][editor.mvc.engine.BookController] - []set lang en
+2015-04-05 14:44:54,362 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][0 --> УКРАЇНСЬКОЮ, 1 --> Open file..., q --> Quit program]
+2015-04-05 14:44:54,362 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][0 --> УКРАЇНСЬКОЮ, 1 --> Open file..., q --> Quit program]
+2015-04-05 14:44:54,742 [DEBUG][main            ][editor.mvc.engine.BookController] - []mainMenu.select 0
+2015-04-05 14:44:54,742 [DEBUG][main            ][ngine.menus.items.ChangeLangItem] - []ChangeLangItem.execute()
+2015-04-05 14:44:54,742 [INFO ][main            ][editor.mvc.engine.BookController] - []set lang ua
+2015-04-05 14:44:54,742 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][0 --> ENGLISH, 1 --> Відкрити файл..., q --> Вийти з програми]
+2015-04-05 14:44:54,742 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][0 --> ENGLISH, 1 --> Відкрити файл..., q --> Вийти з програми]
+2015-04-05 14:49:55,391 [INFO ][main            ][.tgrynchuk.bookeditor.EntryPoint] - []Starts......
+2015-04-05 14:49:55,428 [INFO ][main            ][editor.mvc.engine.BookController] - []start()-->
+2015-04-05 14:49:55,447 [INFO ][main            ][editor.mvc.engine.BookController] - []set lang en
+2015-04-05 14:49:55,513 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][0 --> УКРАЇНСЬКОЮ, 1 --> Open file..., q --> Quit program]
+2015-04-05 14:49:55,513 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][0 --> УКРАЇНСЬКОЮ, 1 --> Open file..., q --> Quit program]
+2015-04-05 14:50:00,638 [DEBUG][main            ][editor.mvc.engine.BookController] - []mainMenu.select 0
+2015-04-05 14:50:00,638 [DEBUG][main            ][ngine.menus.items.ChangeLangItem] - []ChangeLangItem.execute()
+2015-04-05 14:50:00,648 [INFO ][main            ][editor.mvc.engine.BookController] - []set lang ua
+2015-04-05 14:50:00,648 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][0 --> ENGLISH, 1 --> Відкрити файл..., q --> Вийти з програми]
+2015-04-05 14:50:00,648 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][0 --> ENGLISH, 1 --> Відкрити файл..., q --> Вийти з програми]
+2015-04-05 14:50:04,957 [DEBUG][main            ][editor.mvc.engine.BookController] - []mainMenu.select 0
+2015-04-05 14:50:04,957 [DEBUG][main            ][ngine.menus.items.ChangeLangItem] - []ChangeLangItem.execute()
+2015-04-05 14:50:04,957 [INFO ][main            ][editor.mvc.engine.BookController] - []set lang en
+2015-04-05 14:50:04,957 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][0 --> УКРАЇНСЬКОЮ, 1 --> Open file..., q --> Quit program]
+2015-04-05 14:50:04,957 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][0 --> УКРАЇНСЬКОЮ, 1 --> Open file..., q --> Quit program]
+2015-04-05 14:50:06,834 [DEBUG][main            ][editor.mvc.engine.BookController] - []mainMenu.select 0
+2015-04-05 14:50:06,834 [DEBUG][main            ][ngine.menus.items.ChangeLangItem] - []ChangeLangItem.execute()
+2015-04-05 14:50:06,834 [INFO ][main            ][editor.mvc.engine.BookController] - []set lang ua
+2015-04-05 14:50:06,834 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][0 --> ENGLISH, 1 --> Відкрити файл..., q --> Вийти з програми]
+2015-04-05 14:50:06,834 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][0 --> ENGLISH, 1 --> Відкрити файл..., q --> Вийти з програми]
+2015-04-05 15:17:09,721 [DEBUG][main            ][editor.mvc.engine.BookController] - []mainMenu.select q
+2015-04-05 15:17:10,161 [INFO ][main            ][ine.menus.items.QuitProgtramItem] - []QuitProgtramItem.execute()
+2015-04-05 15:39:44,039 [INFO ][main            ][.tgrynchuk.bookeditor.EntryPoint] - []Starts......
+2015-04-05 15:39:44,059 [INFO ][main            ][editor.mvc.engine.BookController] - []start()-->
+2015-04-05 15:39:44,079 [INFO ][main            ][editor.mvc.engine.BookController] - []set lang en
+2015-04-05 15:39:44,562 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][0 --> УКРАЇНСЬКОЮ, 1 --> Open file..., q --> Quit program]
+2015-04-05 15:39:44,562 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][0 --> УКРАЇНСЬКОЮ, 1 --> Open file..., q --> Quit program]
+2015-04-05 15:39:48,562 [DEBUG][main            ][editor.mvc.engine.BookController] - []mainMenu.select 1
+2015-04-05 15:39:48,572 [DEBUG][main            ][.engine.menus.items.OpenFileItem] - []OpenFileItem.execute()
+2015-04-05 15:39:48,572 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][]
+2015-04-05 15:39:48,572 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][0 --> УКРАЇНСЬКОЮ, 1 --> Open file..., q --> Quit program]
+2015-04-05 15:39:48,572 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][0 --> УКРАЇНСЬКОЮ, 1 --> Open file..., q --> Quit program]
+2015-04-05 15:39:55,535 [DEBUG][main            ][editor.mvc.engine.BookController] - []mainMenu.select q
+2015-04-05 15:39:55,535 [INFO ][main            ][ine.menus.items.QuitProgtramItem] - []QuitProgtramItem.execute()
+2015-04-05 15:45:17,678 [INFO ][main            ][.tgrynchuk.bookeditor.EntryPoint] - []Starts......
+2015-04-05 15:45:17,688 [INFO ][main            ][editor.mvc.engine.BookController] - []start()-->
+2015-04-05 15:45:17,688 [INFO ][main            ][editor.mvc.engine.BookController] - []set lang en
+2015-04-05 15:45:17,758 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][0 --> УКРАЇНСЬКОЮ, 1 --> Open file..., q --> Quit program]
+2015-04-05 15:45:17,758 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][0 --> УКРАЇНСЬКОЮ, 1 --> Open file..., q --> Quit program]
+2015-04-05 15:45:21,832 [DEBUG][main            ][editor.mvc.engine.BookController] - []mainMenu.select 1
+2015-04-05 15:45:21,832 [DEBUG][main            ][.engine.menus.items.OpenFileItem] - []OpenFileItem.execute()
+2015-04-05 15:45:21,832 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][C:\epam\workspace\BookEditor\.\FilesEffective java.txt]
+2015-04-05 15:45:21,832 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][0 --> УКРАЇНСЬКОЮ, 1 --> Open file..., q --> Quit program]
+2015-04-05 15:45:21,832 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][0 --> УКРАЇНСЬКОЮ, 1 --> Open file..., q --> Quit program]
+2015-04-05 15:58:17,000 [INFO ][main            ][.tgrynchuk.bookeditor.EntryPoint] - []Starts......
+2015-04-05 15:58:17,000 [INFO ][main            ][editor.mvc.engine.BookController] - []start()-->
+2015-04-05 15:58:17,010 [INFO ][main            ][editor.mvc.engine.BookController] - []set lang en
+2015-04-05 15:58:17,100 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][0 --> УКРАЇНСЬКОЮ, 1 --> Open file..., q --> Quit program]
+2015-04-05 15:58:17,100 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][0 --> УКРАЇНСЬКОЮ, 1 --> Open file..., q --> Quit program]
+2015-04-05 15:58:20,672 [DEBUG][main            ][editor.mvc.engine.BookController] - []mainMenu.select 1
+2015-04-05 15:58:20,672 [DEBUG][main            ][.engine.menus.items.OpenFileItem] - []OpenFileItem.execute()
+2015-04-05 15:58:20,672 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][C:\epam\workspace\BookEditor\.\FilesEffective java.txt]
+2015-04-05 15:58:20,672 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][0 --> УКРАЇНСЬКОЮ, 1 --> Open file..., q --> Quit program]
+2015-04-05 15:58:20,672 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][0 --> УКРАЇНСЬКОЮ, 1 --> Open file..., q --> Quit program]
+2015-04-05 16:00:00,013 [INFO ][main            ][.tgrynchuk.bookeditor.EntryPoint] - []Starts......
+2015-04-05 16:00:00,013 [INFO ][main            ][editor.mvc.engine.BookController] - []start()-->
+2015-04-05 16:00:00,023 [INFO ][main            ][editor.mvc.engine.BookController] - []set lang en
+2015-04-05 16:00:00,103 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][0 --> УКРАЇНСЬКОЮ, 1 --> Open file..., q --> Quit program]
+2015-04-05 16:00:00,103 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][0 --> УКРАЇНСЬКОЮ, 1 --> Open file..., q --> Quit program]
+2015-04-05 16:00:03,113 [DEBUG][main            ][editor.mvc.engine.BookController] - []mainMenu.select 1
+2015-04-05 16:00:03,113 [DEBUG][main            ][.engine.menus.items.OpenFileItem] - []OpenFileItem.execute()
+2015-04-05 16:00:03,133 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - []FilesEffective java.txt
+2015-04-05 16:00:03,133 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][C:\epam\workspace\BookEditor\.\FilesEffective java.txt]
+2015-04-05 16:00:03,133 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][0 --> УКРАЇНСЬКОЮ, 1 --> Open file..., q --> Quit program]
+2015-04-05 16:00:03,133 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][0 --> УКРАЇНСЬКОЮ, 1 --> Open file..., q --> Quit program]
+2015-04-05 16:00:20,290 [INFO ][main            ][.tgrynchuk.bookeditor.EntryPoint] - []Starts......
+2015-04-05 16:00:20,300 [INFO ][main            ][editor.mvc.engine.BookController] - []start()-->
+2015-04-05 16:00:20,300 [INFO ][main            ][editor.mvc.engine.BookController] - []set lang en
+2015-04-05 16:00:20,452 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][0 --> УКРАЇНСЬКОЮ, 1 --> Open file..., q --> Quit program]
+2015-04-05 16:00:20,452 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][0 --> УКРАЇНСЬКОЮ, 1 --> Open file..., q --> Quit program]
+2015-04-05 16:00:25,102 [DEBUG][main            ][editor.mvc.engine.BookController] - []mainMenu.select 1
+2015-04-05 16:00:25,102 [DEBUG][main            ][.engine.menus.items.OpenFileItem] - []OpenFileItem.execute()
+2015-04-05 16:00:25,102 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - []FilesEffective java.txt
+2015-04-05 16:00:25,102 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][0 --> УКРАЇНСЬКОЮ, 1 --> Open file..., q --> Quit program]
+2015-04-05 16:00:25,102 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][0 --> УКРАЇНСЬКОЮ, 1 --> Open file..., q --> Quit program]
+2015-04-05 16:02:52,819 [INFO ][main            ][.tgrynchuk.bookeditor.EntryPoint] - []Starts......
+2015-04-05 16:02:52,829 [INFO ][main            ][editor.mvc.engine.BookController] - []start()-->
+2015-04-05 16:02:52,829 [INFO ][main            ][editor.mvc.engine.BookController] - []set lang en
+2015-04-05 16:02:52,899 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][0 --> УКРАЇНСЬКОЮ, 1 --> Open file..., q --> Quit program]
+2015-04-05 16:02:52,899 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][0 --> УКРАЇНСЬКОЮ, 1 --> Open file..., q --> Quit program]
+2015-04-05 16:02:57,014 [DEBUG][main            ][editor.mvc.engine.BookController] - []mainMenu.select 1
+2015-04-05 16:02:57,014 [DEBUG][main            ][.engine.menus.items.OpenFileItem] - []OpenFileItem.execute()
+2015-04-05 16:02:57,014 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - []
+List of files:
+2015-04-05 16:02:57,024 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - []FilesEffective java.txt
+2015-04-05 16:02:57,024 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][0 --> УКРАЇНСЬКОЮ, 1 --> Open file..., q --> Quit program]
+2015-04-05 16:02:57,024 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][0 --> УКРАЇНСЬКОЮ, 1 --> Open file..., q --> Quit program]
+2015-04-05 16:06:05,773 [INFO ][main            ][.tgrynchuk.bookeditor.EntryPoint] - []Starts......
+2015-04-05 16:06:05,783 [INFO ][main            ][editor.mvc.engine.BookController] - []start()-->
+2015-04-05 16:06:05,783 [INFO ][main            ][editor.mvc.engine.BookController] - []set lang en
+2015-04-05 16:06:05,843 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][0 --> УКРАЇНСЬКОЮ, 1 --> Open file..., q --> Quit program]
+2015-04-05 16:06:05,843 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][0 --> УКРАЇНСЬКОЮ, 1 --> Open file..., q --> Quit program]
+2015-04-05 16:06:07,927 [DEBUG][main            ][editor.mvc.engine.BookController] - []mainMenu.select 1
+2015-04-05 16:06:07,927 [DEBUG][main            ][.engine.menus.items.OpenFileItem] - []OpenFileItem.execute()
+2015-04-05 16:06:07,927 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - []
+List of files:
+2015-04-05 16:06:07,937 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - []FilesEffective java.txt
+2015-04-05 16:06:07,937 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][0 --> УКРАЇНСЬКОЮ, 1 --> Open file..., q --> Quit program]
+2015-04-05 16:06:07,937 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][0 --> УКРАЇНСЬКОЮ, 1 --> Open file..., q --> Quit program]
+2015-04-05 16:07:03,344 [INFO ][main            ][.tgrynchuk.bookeditor.EntryPoint] - []Starts......
+2015-04-05 16:07:03,354 [INFO ][main            ][editor.mvc.engine.BookController] - []start()-->
+2015-04-05 16:07:03,354 [INFO ][main            ][editor.mvc.engine.BookController] - []set lang en
+2015-04-05 16:07:03,464 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][0 --> УКРАЇНСЬКОЮ, 1 --> Open file..., q --> Quit program]
+2015-04-05 16:07:03,464 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][0 --> УКРАЇНСЬКОЮ, 1 --> Open file..., q --> Quit program]
+2015-04-05 16:07:09,152 [DEBUG][main            ][editor.mvc.engine.BookController] - []mainMenu.select 1
+2015-04-05 16:07:09,152 [DEBUG][main            ][.engine.menus.items.OpenFileItem] - []OpenFileItem.execute()
+2015-04-05 16:07:09,162 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - []
+List of files:
+2015-04-05 16:07:09,162 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - []FilesEffective java.txt
+2015-04-05 16:07:09,162 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][0 --> УКРАЇНСЬКОЮ, 1 --> Open file..., q --> Quit program]
+2015-04-05 16:07:09,162 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][0 --> УКРАЇНСЬКОЮ, 1 --> Open file..., q --> Quit program]
+2015-04-05 16:08:00,241 [INFO ][main            ][.tgrynchuk.bookeditor.EntryPoint] - []Starts......
+2015-04-05 16:08:00,241 [INFO ][main            ][editor.mvc.engine.BookController] - []start()-->
+2015-04-05 16:08:00,251 [INFO ][main            ][editor.mvc.engine.BookController] - []set lang en
+2015-04-05 16:08:00,433 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][0 --> УКРАЇНСЬКОЮ, 1 --> Open file..., q --> Quit program]
+2015-04-05 16:08:00,433 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][0 --> УКРАЇНСЬКОЮ, 1 --> Open file..., q --> Quit program]
+2015-04-05 16:08:03,365 [DEBUG][main            ][editor.mvc.engine.BookController] - []mainMenu.select 1
+2015-04-05 16:08:03,365 [DEBUG][main            ][.engine.menus.items.OpenFileItem] - []OpenFileItem.execute()
+2015-04-05 16:08:03,365 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - []
+List of files:
+2015-04-05 16:08:03,365 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][0 --> УКРАЇНСЬКОЮ, 1 --> Open file..., q --> Quit program]
+2015-04-05 16:08:03,365 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][0 --> УКРАЇНСЬКОЮ, 1 --> Open file..., q --> Quit program]
+2015-04-05 16:08:35,186 [INFO ][main            ][.tgrynchuk.bookeditor.EntryPoint] - []Starts......
+2015-04-05 16:08:35,196 [INFO ][main            ][editor.mvc.engine.BookController] - []start()-->
+2015-04-05 16:08:35,196 [INFO ][main            ][editor.mvc.engine.BookController] - []set lang en
+2015-04-05 16:08:35,266 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][0 --> УКРАЇНСЬКОЮ, 1 --> Open file..., q --> Quit program]
+2015-04-05 16:08:35,266 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][0 --> УКРАЇНСЬКОЮ, 1 --> Open file..., q --> Quit program]
+2015-04-05 16:08:38,860 [DEBUG][main            ][editor.mvc.engine.BookController] - []mainMenu.select 1
+2015-04-05 16:08:38,860 [DEBUG][main            ][.engine.menus.items.OpenFileItem] - []OpenFileItem.execute()
+2015-04-05 16:08:38,860 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - []
+List of files:
+2015-04-05 16:08:38,870 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][0 --> УКРАЇНСЬКОЮ, 1 --> Open file..., q --> Quit program]
+2015-04-05 16:08:38,870 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][0 --> УКРАЇНСЬКОЮ, 1 --> Open file..., q --> Quit program]
+2015-04-05 16:08:53,603 [INFO ][main            ][.tgrynchuk.bookeditor.EntryPoint] - []Starts......
+2015-04-05 16:08:53,603 [INFO ][main            ][editor.mvc.engine.BookController] - []start()-->
+2015-04-05 16:08:53,613 [INFO ][main            ][editor.mvc.engine.BookController] - []set lang en
+2015-04-05 16:08:53,693 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][0 --> УКРАЇНСЬКОЮ, 1 --> Open file..., q --> Quit program]
+2015-04-05 16:08:53,693 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][0 --> УКРАЇНСЬКОЮ, 1 --> Open file..., q --> Quit program]
+2015-04-05 16:08:56,637 [DEBUG][main            ][editor.mvc.engine.BookController] - []mainMenu.select 1
+2015-04-05 16:08:56,637 [DEBUG][main            ][.engine.menus.items.OpenFileItem] - []OpenFileItem.execute()
+2015-04-05 16:09:06,384 [INFO ][main            ][.tgrynchuk.bookeditor.EntryPoint] - []Starts......
+2015-04-05 16:09:06,394 [INFO ][main            ][editor.mvc.engine.BookController] - []start()-->
+2015-04-05 16:09:06,394 [INFO ][main            ][editor.mvc.engine.BookController] - []set lang en
+2015-04-05 16:09:06,464 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][0 --> УКРАЇНСЬКОЮ, 1 --> Open file..., q --> Quit program]
+2015-04-05 16:09:06,464 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][0 --> УКРАЇНСЬКОЮ, 1 --> Open file..., q --> Quit program]
+2015-04-05 16:09:11,075 [DEBUG][main            ][editor.mvc.engine.BookController] - []mainMenu.select 1
+2015-04-05 16:09:11,075 [DEBUG][main            ][.engine.menus.items.OpenFileItem] - []OpenFileItem.execute()
+2015-04-05 16:09:25,603 [INFO ][main            ][.tgrynchuk.bookeditor.EntryPoint] - []Starts......
+2015-04-05 16:09:25,614 [INFO ][main            ][editor.mvc.engine.BookController] - []start()-->
+2015-04-05 16:09:25,617 [INFO ][main            ][editor.mvc.engine.BookController] - []set lang en
+2015-04-05 16:09:25,709 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][0 --> УКРАЇНСЬКОЮ, 1 --> Open file..., q --> Quit program]
+2015-04-05 16:09:25,709 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][0 --> УКРАЇНСЬКОЮ, 1 --> Open file..., q --> Quit program]
+2015-04-05 16:09:28,933 [DEBUG][main            ][editor.mvc.engine.BookController] - []mainMenu.select 1
+2015-04-05 16:09:28,933 [DEBUG][main            ][.engine.menus.items.OpenFileItem] - []OpenFileItem.execute()
+2015-04-05 16:09:41,954 [INFO ][main            ][.tgrynchuk.bookeditor.EntryPoint] - []Starts......
+2015-04-05 16:09:41,954 [INFO ][main            ][editor.mvc.engine.BookController] - []start()-->
+2015-04-05 16:09:41,964 [INFO ][main            ][editor.mvc.engine.BookController] - []set lang en
+2015-04-05 16:09:42,034 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][0 --> УКРАЇНСЬКОЮ, 1 --> Open file..., q --> Quit program]
+2015-04-05 16:09:42,034 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][0 --> УКРАЇНСЬКОЮ, 1 --> Open file..., q --> Quit program]
+2015-04-05 16:09:44,948 [DEBUG][main            ][editor.mvc.engine.BookController] - []mainMenu.select 1
+2015-04-05 16:09:44,948 [DEBUG][main            ][.engine.menus.items.OpenFileItem] - []OpenFileItem.execute()
+2015-04-05 16:10:01,555 [INFO ][main            ][.tgrynchuk.bookeditor.EntryPoint] - []Starts......
+2015-04-05 16:10:01,565 [INFO ][main            ][editor.mvc.engine.BookController] - []start()-->
+2015-04-05 16:10:01,565 [INFO ][main            ][editor.mvc.engine.BookController] - []set lang en
+2015-04-05 16:10:01,635 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][0 --> УКРАЇНСЬКОЮ, 1 --> Open file..., q --> Quit program]
+2015-04-05 16:10:01,635 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][0 --> УКРАЇНСЬКОЮ, 1 --> Open file..., q --> Quit program]
+2015-04-05 16:10:04,687 [DEBUG][main            ][editor.mvc.engine.BookController] - []mainMenu.select 1
+2015-04-05 16:10:04,687 [DEBUG][main            ][.engine.menus.items.OpenFileItem] - []OpenFileItem.execute()
+2015-04-05 16:10:04,687 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - []
+List of files:
+2015-04-05 16:10:04,687 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][0 --> УКРАЇНСЬКОЮ, 1 --> Open file..., q --> Quit program]
+2015-04-05 16:10:04,687 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][0 --> УКРАЇНСЬКОЮ, 1 --> Open file..., q --> Quit program]
+2015-04-05 16:11:05,967 [INFO ][main            ][.tgrynchuk.bookeditor.EntryPoint] - []Starts......
+2015-04-05 16:11:05,967 [INFO ][main            ][editor.mvc.engine.BookController] - []start()-->
+2015-04-05 16:11:05,977 [INFO ][main            ][editor.mvc.engine.BookController] - []set lang en
+2015-04-05 16:11:06,067 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][0 --> УКРАЇНСЬКОЮ, 1 --> Open file..., q --> Quit program]
+2015-04-05 16:11:06,067 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][0 --> УКРАЇНСЬКОЮ, 1 --> Open file..., q --> Quit program]
+2015-04-05 16:11:09,351 [DEBUG][main            ][editor.mvc.engine.BookController] - []mainMenu.select 1
+2015-04-05 16:11:09,351 [DEBUG][main            ][.engine.menus.items.OpenFileItem] - []OpenFileItem.execute()
+2015-04-05 16:11:09,351 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - []
+List of files:
+2015-04-05 16:11:09,351 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][0 --> УКРАЇНСЬКОЮ, 1 --> Open file..., q --> Quit program]
+2015-04-05 16:11:09,351 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][0 --> УКРАЇНСЬКОЮ, 1 --> Open file..., q --> Quit program]
+2015-04-05 16:14:00,323 [INFO ][main            ][.tgrynchuk.bookeditor.EntryPoint] - []Starts......
+2015-04-05 16:14:00,323 [INFO ][main            ][editor.mvc.engine.BookController] - []start()-->
+2015-04-05 16:14:00,323 [INFO ][main            ][editor.mvc.engine.BookController] - []set lang en
+2015-04-05 16:14:00,403 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][0 --> УКРАЇНСЬКОЮ, 1 --> Open file..., q --> Quit program]
+2015-04-05 16:14:00,403 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][0 --> УКРАЇНСЬКОЮ, 1 --> Open file..., q --> Quit program]
+2015-04-05 16:14:06,375 [DEBUG][main            ][editor.mvc.engine.BookController] - []mainMenu.select 1
+2015-04-05 16:14:06,375 [DEBUG][main            ][.engine.menus.items.OpenFileItem] - []OpenFileItem.execute()
+2015-04-05 16:14:06,385 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - []
+List of files:
+2015-04-05 16:14:06,385 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][0 --> УКРАЇНСЬКОЮ, 1 --> Open file..., q --> Quit program]
+2015-04-05 16:14:06,385 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][0 --> УКРАЇНСЬКОЮ, 1 --> Open file..., q --> Quit program]
+2015-04-05 16:15:22,580 [INFO ][main            ][.tgrynchuk.bookeditor.EntryPoint] - []Starts......
+2015-04-05 16:15:22,580 [INFO ][main            ][editor.mvc.engine.BookController] - []start()-->
+2015-04-05 16:15:22,580 [INFO ][main            ][editor.mvc.engine.BookController] - []set lang en
+2015-04-05 16:15:22,690 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][0 --> УКРАЇНСЬКОЮ, 1 --> Open file..., q --> Quit program]
+2015-04-05 16:15:22,690 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][0 --> УКРАЇНСЬКОЮ, 1 --> Open file..., q --> Quit program]
+2015-04-05 16:15:27,004 [DEBUG][main            ][editor.mvc.engine.BookController] - []mainMenu.select 1
+2015-04-05 16:15:27,014 [DEBUG][main            ][.engine.menus.items.OpenFileItem] - []OpenFileItem.execute()
+2015-04-05 16:15:27,014 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - []
+List of files:
+2015-04-05 16:15:27,014 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][0 --> УКРАЇНСЬКОЮ, 1 --> Open file..., q --> Quit program]
+2015-04-05 16:15:27,014 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][0 --> УКРАЇНСЬКОЮ, 1 --> Open file..., q --> Quit program]
+2015-04-05 16:29:00,292 [INFO ][main            ][.tgrynchuk.bookeditor.EntryPoint] - []Starts......
+2015-04-05 16:29:00,292 [INFO ][main            ][editor.mvc.engine.BookController] - []start()-->
+2015-04-05 16:29:00,302 [INFO ][main            ][editor.mvc.engine.BookController] - []set lang en
+2015-04-05 16:29:00,474 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][0 --> УКРАЇНСЬКОЮ, 1 --> Open file..., q --> Quit program]
+2015-04-05 16:29:00,474 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][0 --> УКРАЇНСЬКОЮ, 1 --> Open file..., q --> Quit program]
+2015-04-05 16:29:06,954 [DEBUG][main            ][editor.mvc.engine.BookController] - []mainMenu.select 1
+2015-04-05 16:29:06,954 [DEBUG][main            ][.engine.menus.items.OpenFileItem] - []OpenFileItem.execute()
+2015-04-05 16:29:06,964 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - []
+List of files:
+2015-04-05 16:29:06,964 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][0 --> УКРАЇНСЬКОЮ, 1 --> Open file..., q --> Quit program]
+2015-04-05 16:29:06,964 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][0 --> УКРАЇНСЬКОЮ, 1 --> Open file..., q --> Quit program]
+2015-04-05 16:30:40,014 [INFO ][main            ][.tgrynchuk.bookeditor.EntryPoint] - []Starts......
+2015-04-05 16:30:40,024 [INFO ][main            ][editor.mvc.engine.BookController] - []start()-->
+2015-04-05 16:30:40,024 [INFO ][main            ][editor.mvc.engine.BookController] - []set lang en
+2015-04-05 16:30:40,095 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][0 --> УКРАЇНСЬКОЮ, 1 --> Open file..., q --> Quit program]
+2015-04-05 16:30:40,095 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][0 --> УКРАЇНСЬКОЮ, 1 --> Open file..., q --> Quit program]
+2015-04-05 16:30:43,901 [DEBUG][main            ][editor.mvc.engine.BookController] - []mainMenu.select 1
+2015-04-05 16:30:43,901 [DEBUG][main            ][.engine.menus.items.OpenFileItem] - []OpenFileItem.execute()
+2015-04-05 16:30:43,911 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - []
+List of files:
+2015-04-05 16:30:43,932 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - []Effective java.txt
+2015-04-05 16:30:43,932 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][0 --> УКРАЇНСЬКОЮ, 1 --> Open file..., q --> Quit program]
+2015-04-05 16:30:43,932 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][0 --> УКРАЇНСЬКОЮ, 1 --> Open file..., q --> Quit program]
+2015-04-05 16:33:23,467 [INFO ][main            ][.tgrynchuk.bookeditor.EntryPoint] - []Starts......
+2015-04-05 16:33:23,467 [INFO ][main            ][editor.mvc.engine.BookController] - []start()-->
+2015-04-05 16:33:23,477 [INFO ][main            ][editor.mvc.engine.BookController] - []set lang en
+2015-04-05 16:33:23,537 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][0 --> УКРАЇНСЬКОЮ, 1 --> Open file..., q --> Quit program]
+2015-04-05 16:33:23,537 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][0 --> УКРАЇНСЬКОЮ, 1 --> Open file..., q --> Quit program]
+2015-04-05 16:33:27,589 [DEBUG][main            ][editor.mvc.engine.BookController] - []mainMenu.select 1
+2015-04-05 16:33:27,589 [DEBUG][main            ][.engine.menus.items.OpenFileItem] - []OpenFileItem.execute()
+2015-04-05 16:33:27,589 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - []
+List of files:
+2015-04-05 16:33:27,599 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - []Effective java.txt
+2015-04-05 16:33:27,599 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][0 --> УКРАЇНСЬКОЮ, 1 --> Open file..., q --> Quit program]
+2015-04-05 16:33:27,599 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][0 --> УКРАЇНСЬКОЮ, 1 --> Open file..., q --> Quit program]
+2015-04-05 16:36:19,588 [INFO ][main            ][.tgrynchuk.bookeditor.EntryPoint] - []Starts......
+2015-04-05 16:36:19,598 [INFO ][main            ][editor.mvc.engine.BookController] - []start()-->
+2015-04-05 16:36:19,598 [INFO ][main            ][editor.mvc.engine.BookController] - []set lang en
+2015-04-05 16:36:19,668 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][0 --> УКРАЇНСЬКОЮ, 1 --> Open file..., q --> Quit program]
+2015-04-05 16:36:19,668 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][0 --> УКРАЇНСЬКОЮ, 1 --> Open file..., q --> Quit program]
+2015-04-05 16:36:23,660 [DEBUG][main            ][editor.mvc.engine.BookController] - []mainMenu.select 1
+2015-04-05 16:36:23,670 [DEBUG][main            ][.engine.menus.items.OpenFileItem] - []OpenFileItem.execute()
+2015-04-05 16:37:20,172 [INFO ][main            ][.tgrynchuk.bookeditor.EntryPoint] - []Starts......
+2015-04-05 16:37:20,182 [INFO ][main            ][editor.mvc.engine.BookController] - []start()-->
+2015-04-05 16:37:20,182 [INFO ][main            ][editor.mvc.engine.BookController] - []set lang en
+2015-04-05 16:37:20,252 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][0 --> УКРАЇНСЬКОЮ, 1 --> Open file..., q --> Quit program]
+2015-04-05 16:37:20,252 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][0 --> УКРАЇНСЬКОЮ, 1 --> Open file..., q --> Quit program]
+2015-04-05 16:37:24,533 [DEBUG][main            ][editor.mvc.engine.BookController] - []mainMenu.select 1
+2015-04-05 16:37:24,533 [DEBUG][main            ][.engine.menus.items.OpenFileItem] - []OpenFileItem.execute()
+2015-04-05 16:38:23,369 [INFO ][main            ][.tgrynchuk.bookeditor.EntryPoint] - []Starts......
+2015-04-05 16:38:23,379 [INFO ][main            ][editor.mvc.engine.BookController] - []start()-->
+2015-04-05 16:38:23,379 [INFO ][main            ][editor.mvc.engine.BookController] - []set lang en
+2015-04-05 16:38:23,449 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][0 --> УКРАЇНСЬКОЮ, 1 --> Open file..., q --> Quit program]
+2015-04-05 16:38:23,449 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][0 --> УКРАЇНСЬКОЮ, 1 --> Open file..., q --> Quit program]
+2015-04-05 16:38:28,070 [DEBUG][main            ][editor.mvc.engine.BookController] - []mainMenu.select 1
+2015-04-05 16:38:28,070 [DEBUG][main            ][.engine.menus.items.OpenFileItem] - []OpenFileItem.execute()
+2015-04-05 16:38:28,070 [WARN ][main            ][rynchuk.bookeditor.mvc.ui.Window] - []Error reading file !
+2015-04-05 16:38:28,111 [ERROR][main            ][tor.exceptions.BaseBookException] - []com.epam.tgrynchuk.bookeditor.exceptions.OpenBookFileException: java.lang.NullPointerException
+java.lang.NullPointerException
+	at com.epam.tgrynchuk.bookeditor.mvc.engine.menus.items.OpenFileItem.execute(OpenFileItem.java:39)
+	at com.epam.tgrynchuk.bookeditor.mvc.engine.menus.Menu.select(Menu.java:31)
+	at com.epam.tgrynchuk.bookeditor.mvc.engine.BookController.start(BookController.java:91)
+	at com.epam.tgrynchuk.bookeditor.EntryPoint.main(EntryPoint.java:13)
+2015-04-05 16:39:34,607 [INFO ][main            ][.tgrynchuk.bookeditor.EntryPoint] - []Starts......
+2015-04-05 16:39:34,607 [INFO ][main            ][editor.mvc.engine.BookController] - []start()-->
+2015-04-05 16:39:34,607 [INFO ][main            ][editor.mvc.engine.BookController] - []set lang en
+2015-04-05 16:39:34,707 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][0 --> УКРАЇНСЬКОЮ, 1 --> Open file..., q --> Quit program]
+2015-04-05 16:39:34,707 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][0 --> УКРАЇНСЬКОЮ, 1 --> Open file..., q --> Quit program]
+2015-04-05 16:39:38,599 [DEBUG][main            ][editor.mvc.engine.BookController] - []mainMenu.select 1
+2015-04-05 16:39:38,599 [DEBUG][main            ][.engine.menus.items.OpenFileItem] - []OpenFileItem.execute()
+2015-04-05 16:39:38,599 [WARN ][main            ][rynchuk.bookeditor.mvc.ui.Window] - []Error reading file !
+2015-04-05 16:39:38,599 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][0 --> УКРАЇНСЬКОЮ, 1 --> Open file..., q --> Quit program]
+2015-04-05 16:39:38,599 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][0 --> УКРАЇНСЬКОЮ, 1 --> Open file..., q --> Quit program]
+2015-04-05 16:42:36,971 [INFO ][main            ][.tgrynchuk.bookeditor.EntryPoint] - []Starts......
+2015-04-05 16:42:36,981 [INFO ][main            ][editor.mvc.engine.BookController] - []start()-->
+2015-04-05 16:42:36,981 [INFO ][main            ][editor.mvc.engine.BookController] - []set lang en
+2015-04-05 16:42:37,051 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][0 --> УКРАЇНСЬКОЮ, 1 --> Open file..., q --> Quit program]
+2015-04-05 16:42:37,051 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][0 --> УКРАЇНСЬКОЮ, 1 --> Open file..., q --> Quit program]
+2015-04-05 16:42:41,564 [DEBUG][main            ][editor.mvc.engine.BookController] - []mainMenu.select 1
+2015-04-05 16:42:41,574 [DEBUG][main            ][.engine.menus.items.OpenFileItem] - []OpenFileItem.execute()
+2015-04-05 16:42:41,574 [WARN ][main            ][rynchuk.bookeditor.mvc.ui.Window] - []Error reading file !
+2015-04-05 16:42:41,574 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][0 --> УКРАЇНСЬКОЮ, 1 --> Open file..., q --> Quit program]
+2015-04-05 16:42:41,574 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][0 --> УКРАЇНСЬКОЮ, 1 --> Open file..., q --> Quit program]
+2015-04-05 16:42:47,155 [DEBUG][main            ][editor.mvc.engine.BookController] - []mainMenu.select 0
+2015-04-05 16:42:47,155 [DEBUG][main            ][ngine.menus.items.ChangeLangItem] - []ChangeLangItem.execute()
+2015-04-05 16:42:47,165 [INFO ][main            ][editor.mvc.engine.BookController] - []set lang ua
+2015-04-05 16:42:47,165 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][0 --> ENGLISH, 1 --> Відкрити файл..., q --> Вийти з програми]
+2015-04-05 16:42:47,165 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][0 --> ENGLISH, 1 --> Відкрити файл..., q --> Вийти з програми]
+2015-04-05 16:42:50,010 [DEBUG][main            ][editor.mvc.engine.BookController] - []mainMenu.select 1
+2015-04-05 16:42:50,010 [DEBUG][main            ][.engine.menus.items.OpenFileItem] - []OpenFileItem.execute()
+2015-04-05 16:42:50,010 [WARN ][main            ][rynchuk.bookeditor.mvc.ui.Window] - []Помилка читання файлу !
+2015-04-05 16:42:50,010 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][0 --> ENGLISH, 1 --> Відкрити файл..., q --> Вийти з програми]
+2015-04-05 16:42:50,010 [DEBUG][main            ][rynchuk.bookeditor.mvc.ui.Window] - [][0 --> ENGLISH, 1 --> Відкрити файл..., q --> Вийти з програми]

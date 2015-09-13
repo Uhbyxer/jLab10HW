@@ -1,0 +1,76 @@
+Now, when creating an XML attribute called Name, the definition in C# .NET may
+
+look something like this:
+
+[XmlAttribute(“name”)]
+
+public String Name
+
+{
+
+get
+
+{
+
+return this.strName;
+
+}
+
+set
+
+{
+
+if (value == null) return;
+
+this.strName = value;
+
+}
+
+}
+
+In this approach, the getters and setters are actually properties of the attributes—in this
+
+case, Name.
+
+Regardless of the approach, the purpose is the same—controlled access to the attribute.
+
+For this chapter, I want to first concentrate on the conceptual nature of accessor methods;
+
+we will get more into properties when we cover object-oriented data in Chapter 11 and
+
+beyond.
+
+Getters and Setters
+
+The concept of getters and setters supports the concept of data hiding. Because other ob-
+jects should not directly manipulate data within another object, the getters and setters pro-
+vide controlled access to an object’s data. Getters and setters are sometimes called
+
+accessor methods and mutator methods, respectively.
+
+Note that we are only showing the interface of the methods, and not the implementation.
+
+The following information is all the user needs to know to effectively use the methods:
+
+- The name of the method
+
+- The parameters passed to the method
+
+- The return type of the method
+
+To further illustrate behaviors, consider Figure 1.7. In Figure 1.7, the Payroll object con-
+tains a method called CalculatePay() that calculates the pay for a specific employee.
+
+Among other information, the Payroll object must obtain the Social Security number of
+
+this employee.To get this information, the payroll object must send a message to the
+
+Employee object (in this case, the getSocialSecurityNumber() method). Basically, this
+
+means that the Payroll object calls the getSocialSecurityNumber() method of the   Employee object.The employee object recognizes the message and returns the requested
+
+information.
+
+To illustrate further, Figure 1.8 is a class diagram representing the Employee/Payroll
+
+system we have been talking about.
